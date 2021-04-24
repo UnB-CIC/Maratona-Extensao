@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Descrição do Projeto
 
-You can use the [editor on GitHub](https://github.com/UnB-CIC/Maratona-Extensao/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Esse é um projeto de extensão desenvolvido no Distrito Federal a partir do esforço conjunto da Universidade de Brasília (campus Darcy Ribeiro e Gama) e do Instituto Federal de Brasília. Seu objetivo é incentivar o estudo da programação competitiva no DF.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As atividades do projeto são divididas em 3 grupos: iniciante, intermediário e avançado, cujas páginas são
 
-### Markdown
+- [Iniciante]()
+- [Intermediário]()
+- [Avançado](avancado/README.md)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Grupo do Telegram
 
-```markdown
-Syntax highlighted code block
+O grupo do telegram UnBalloon reúne estudantes tanto do Distrito Federal quanto do resto do Brasil. Seu propósito é simples: ser um espaço de interações e troca de conhecimentos de programação competitiva. Para fins de organização existem dois grupos, o [grupo de avisos](https://t.me/avisosunballoon) e o [grupo de discussões](https://t.me/unballoon).
 
-# Header 1
-## Header 2
-### Header 3
+O canal do Telegram não é vinculado diretamente ao projeto de extensão. Todos são bem vindos nos grupos!
 
-- Bulleted
-- List
+# Calendário de Competições
 
-1. Numbered
-2. List
+Neste calendário encontram-se competições do [Codeforces](https://codeforces.com/), [Atcoder](https://atcoder.jp/), [Google](https://codingcompetitions.withgoogle.com/), e [maratonas oficiais do Distrito Federal](http://maratona.cic.unb.br/).
 
-**Bold** and _Italic_ and `Code` text
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FSao_Paulo&amp;src=Ymhqb3VpcjJ0YjhwNWVmcGJjZmJuaDg2MTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=bDU1NjJldXA0M3AzcmRicnJ1Z2ttNWVjZ2tAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=N3Iwc20wOTBibW41cGVjc2xiZnNvMmF0ZjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=azIzajIzM2d0Y3ZhdTdhOHVsazJwMzYwbTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=bWFyYXRvbmFkZkBnbWFpbC5jb20&amp;color=%238E24AA&amp;color=%23795548&amp;color=%239E69AF&amp;color=%234285F4&amp;color=%230B8043&amp;showTabs=1&amp;showPrint=0&amp;mode=AGENDA&amp;title=Competi%C3%A7%C3%B5es&amp;hl=pt_BR" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UnB-CIC/Maratona-Extensao/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# FAQ
