@@ -1,11 +1,45 @@
 Introdução
 ====================================
 
-### Videoaulas
+## Videoaulas
 
-- [[Aula 1] Introdução](https://youtu.be/lFghsipaZhc)
+<details>
+    <summary>Aula 1</summary>
 
-### Exercícios
+<iframe width="672" height="378" src="https://www.youtube.com/embed/lFghsipaZhc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</details>
+
+- Set
+- Min/max queue
+- Estrutura de mediana
+
+## Slides
+
+<details>
+    <summary>Slides da aula 1</summary>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQMYBlUSqpxXUTBrGIrzWu94scXhwWwP3rz9r-qDEgTjtLNBo3WiAv7CsFVRn7lhv7JTSEF5yW--reX/embed?start=false&loop=false&delayms=60000" frameborder="0" width="672" height="378" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+</details>
+
+## Códigos e Materiais
+
+<details>
+    <summary>Material extra</summary>
+
+<div markdown=1>
+
+- [[Blog] Fila de mínimo](https://codeforces.com/blog/entry/76908)
+- [[CP-algo] Fila e pilha de mínimo](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
+</div>
+</details>
+
+## Exercícios
+
+<details>
+    <summary>Parte 1</summary>
+
+<div markdown=1>
 
 - Exercícios de fixação
     - [[Mediana] Absolute Minima](https://atcoder.jp/contests/abc127/tasks/abc127_f)
@@ -22,8 +56,5 @@ Introdução
 - Exercícios difíceis
     - [[Min queue] Running on Fumes](https://www.facebook.com/codingcompetitions/hacker-cup/2020/qualification-round/problems/D1)
     - [[Set] Physical Education Lessons](https://codeforces.com/contest/915/problem/E)
-
-### Material extra
-
-- [[Blog] Fila de mínimo](https://codeforces.com/blog/entry/76908)
-- [[CP-algo] Fila e pilha de mínimo](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
+</div>
+</details>

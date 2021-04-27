@@ -1,16 +1,61 @@
 Binary Lifting
 ====================================
 
-### Videoaulas
+## Videoaulas
 
-- [[Aula 2] Parte 1](https://www.youtube.com/watch?v=HS18OQw3yO8)
-    - Exponenciação rápida
-    - Sparse table
-- [[Aula 2] Parte 2](https://www.youtube.com/watch?v=ln6XGYnS_DQ)
-    - Binary Lifting na árvore
-    - Euler tour/LCA
+<details>
+    <summary>Aula 1</summary>
 
-### Exercícios Parte 1
+<iframe width="672" height="378" src="https://www.youtube.com/embed/HS18OQw3yO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</details>
+
+- Exponenciação rápida
+- Sparse table
+
+<details>
+    <summary>Aula 2</summary>
+
+<iframe width="672" height="378" src="https://www.youtube.com/embed/ln6XGYnS_DQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</details>
+
+- Binary Lifting na árvore
+- Euler tour/LCA
+
+## Slides
+
+<details>
+    <summary>Slides da aula 1</summary>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQbVjo0V_liO5Mdzpw3bdLp0xQ4yACb3SERO7Y1ySR0ZbtPsYcETj9nccNzYLHVEP4E49qsNN7QEwq2/embed?start=false&loop=false&delayms=60000" frameborder="0" width="672" height="378" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+</details>
+
+<details>
+    <summary>Slides da aula 2</summary>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSix6G4HqkoiyssSQn1NMnVC5QQBDyz9lYlJBUaiBx3bgCVSvK3ySFBB1JRpJ1LtgK-pfVYe7304bch/embed?start=false&loop=false&delayms=60000" frameborder="0" width="672" height="378" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+</details>
+
+## Códigos e Materiais
+
+<details>
+    <summary>Material extra</summary>
+
+<div markdown=1>
+
+- [[CP-algo] Exponenciação rápida](https://cp-algorithms.com/algebra/binary-exp.html)
+- [[CP-algo] Sparse table](https://cp-algorithms.com/data_structures/sparse-table.html)
+- [[CP-algo] Binary Lifting - LCA](https://cp-algorithms.com/graph/lca_binary_lifting.html)
+</div>
+</details>
+
+## Exercícios
+
+<details>
+    <summary>Parte 1</summary>
+
+<div markdown=1>
 
 - Exercícios de fixação
     - [[Exponenciação rápida] Fibonacci](https://codeforces.com/gym/102644/problem/C)
@@ -23,9 +68,13 @@ Binary Lifting
     - [[Exponenciação rápida] Xor-sequences](https://codeforces.com/contest/691/problem/E)
     - [[Sparse Table] CGCDSSQ](https://codeforces.com/contest/475/problem/D)
     - [[Sparse Table] Imbalanced Array](https://codeforces.com/contest/817/problem/D)
+</div>
+</details>
 
+<details>
+    <summary>Parte 2</summary>
 
-### Exercícios Parte 2
+<div markdown=1>
 
 - Exercícios de fixação
     - [[Binary Lifting/Árvore] Company Queries I](https://cses.fi/problemset/task/1687)
@@ -38,9 +87,5 @@ Binary Lifting
 - Exercícios difíceis
     - [[Binary Lifting/Árvore] Party Company (Subregional 2020)](https://codeforces.com/gym/102861/problem/E)
     - [[Binary Lifting/Árvore] Minimum spanning tree for each edge](https://codeforces.com/contest/609/problem/E)
-
-### Material extra
-
-- [[CP-algo] Exponenciação rápida](https://cp-algorithms.com/algebra/binary-exp.html)
-- [[CP-algo] Sparse table](https://cp-algorithms.com/data_structures/sparse-table.html)
-- [[CP-algo] Binary Lifting - LCA](https://cp-algorithms.com/graph/lca_binary_lifting.html)
+</div>
+</details>
