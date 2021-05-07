@@ -4,6 +4,6 @@ Esse é um projeto de extensão desenvolvido no Distrito Federal a partir do esf
 
 As atividades do projeto são divididas em 3 grupos: iniciante, intermediário e avançado, cujas páginas são
 
-- [Iniciante](docs/html/iniciante/README.md)
-- [Intermediário]()
-- [Avançado](docs/html/avancado/README.md)
+- [Iniciante](docs/iniciante/README.md)
+- [Intermediário](docs/intermediario/README.md)
+- [Avançado](docs/avancado/README.md)
