@@ -13,3 +13,8 @@ Caso tenha interesse em assistir as aulas então siga, preferencialmente, a orde
     - Algoritmos, variáveis, expressões, estruturas básicas.
     - Condicionais, operadores lógicos.
     - Iteração.
+2. [Tópico 2]
+    - String
+    - Vetores
+    - Matrizes
+    
