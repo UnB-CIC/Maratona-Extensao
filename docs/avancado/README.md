@@ -19,6 +19,9 @@ Caso tenha interesse em assistir as aulas então siga, preferencialmente, a orde
     - Soma e mínimo em intervalo
     - Intervalo de soma máxima
     - Lazy propagation
-1. DP
+1. [Programação Dinâmica (DP)](programacao-dinamica/README.md)
+    - DPs clássicas
+    - DP na árvore
+    - Otimizações de memória e tempo
 1. Geometria
 1. Teoria dos números
