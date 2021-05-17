@@ -8,7 +8,7 @@ As atividades do projeto são divididas em 3 grupos: iniciante, intermediário e
 - [Intermediário](docs/intermediario/README.md)
 - [Avançado](docs/avancado/README.md)
 
-# Inscrições
+## Inscrições
 
 Siga o passo-a-passo abaixo para se cadastrar em algum dos grupos de estudos em programação competitiva:
 
