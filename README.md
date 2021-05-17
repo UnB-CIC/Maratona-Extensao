@@ -18,9 +18,9 @@ Siga o passo-a-passo abaixo para se cadastrar em algum dos grupos de estudos em 
 
 3) Escolha um dos grupos de estudos disponíveis clicando no respectivo link abaixo:
 
-* [Nível Iniciante](https://sig.unb.br/sigaa/link/public/extensao/visualizacaoAcaoExtensao/1971) (Estudantes do Ensino Médio)
-* [Nível Intermediário](https://sig.unb.br/sigaa/link/public/extensao/visualizacaoAcaoExtensao/1957) (Estudantes do Ensino Médio e do Ensino Superior)
-* [Nível Avançado](https://sig.unb.br/sigaa/link/public/extensao/visualizacaoAcaoExtensao/1960) (Estudantes do Ensino Médio e do Ensino Superior)
+* [Nível Iniciante](https://sig.unb.br/sigaa/link/public/extensao/visualizacaoAcaoExtensao/1971) (para estudantes do Ensino Médio)
+* [Nível Intermediário](https://sig.unb.br/sigaa/link/public/extensao/visualizacaoAcaoExtensao/1957) (para estudantes do Ensino Médio e do Ensino Superior)
+* [Nível Avançado](https://sig.unb.br/sigaa/link/public/extensao/visualizacaoAcaoExtensao/1960) (para estudantes do Ensino Médio e do Ensino Superior)
 
   Ao clicar em algum dos links acima, você será encaminhado para a página do grupo de estudos no SIGAA e verá informações do dia e horários das aulas virtuais, como também da ementa do grupo de estudos escolhido.
 
