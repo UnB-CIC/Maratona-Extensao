@@ -22,15 +22,15 @@ Siga o passo-a-passo abaixo para se cadastrar em algum dos grupos de estudos em 
 
 3) Faça o login no SIGAA clicando [aqui](https://sig.unb.br/sigaa/public/extensao/loginCursosEventosExtensao.jsf) e insira corretamente as suas credenciais.
  
-4) A partir da sua tela inicial, clique na aba "Extensão", depois em "Cursos":
+4) A partir da sua tela inicial, clique em "Cursos e Eventos Abertos" na parte esquerda da página
 
 ![alt text](imagens/inscricao_00.png)
 
-5) No formulário de busca, digite "Grupo de Estudos em Programação Competitiva" (sem aspas duplas no campo), levando-o a obter a seguinte tela:
+5) Em seguida, no formulário de busca, digite "Grupo de Estudos em Programação Competitiva" (sem aspas duplas no campo):
 
 ![alt text](imagens/inscricao_1.png)
 
-6) Os três grupos de estudos irão aparecer na tela. Inscreva-se clicando na seta verde associada ao grupo de sua escolha: 
+6) Você será levado para uma página com os resultados da busca, apresentando os três grupos de estudos. Inscreva-se clicando na seta verde associada ao grupo de sua escolha: 
 
 ![alt text](imagens/inscricao_2.png)
 
