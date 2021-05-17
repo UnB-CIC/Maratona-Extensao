@@ -8,6 +8,8 @@ As atividades do projeto são divididas em 3 grupos: iniciante, intermediário e
 - [Intermediário](intermediario/README.md)
 - [Avançado](avancado/README.md)
 
+## [Inscreva-se!](inscricoes.md)
+
 # Grupo do Telegram
 
 O grupo do Telegram UnBalloon reúne estudantes tanto do Distrito Federal quanto do resto do Brasil. Seu propósito é simples: ser um espaço de interações e troca de conhecimentos de programação competitiva. Para fins de organização existem dois grupos, o [grupo de avisos](https://t.me/avisosunballoon) e o [grupo de discussões](https://t.me/unballoon).
