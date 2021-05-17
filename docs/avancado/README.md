@@ -1,11 +1,11 @@
 Material das Aulas Avançadas
 ====================================
 
-Este repositório foi feito com o intuito de reunir os materiais utilizados para as aulas avançadas do projeto de extensão de Programação Competitiva da Universidade de Brasília, realizado de forma virtual.
+Página do grupo avançado do projeto de extensão. Link oficial no sistema SIGAA: [Grupo de Estudos em Programação Competitiva - Nível Avançado](https://sig.unb.br/sigaa/public/extensao/viewDadosCursoEvento.jsf)
 
-Se encontram aqui: videoaulas, exercícios recomendados e materiais extras de outras fontes. As aulas serão separadas por assunto, e um assunto pode conter mais de uma aula.
+Se encontram aqui: videoaulas, exercícios recomendados e materiais extras de outras fontes. O conteúdo é dividido em tópicos, e cada tópico pode abranger mais de uma semana de atividades.
 
-Caso tenha interesse em assistir as aulas então siga, preferencialmente, a ordem abaixo. Os exercícios serão separados em fixação, intermediário e avançado. Recomendamos fazer pelo menos todos os exercícios de fixação antes de avançar para o próximo tópico.
+Caso tenha interesse em assistir as videoaulas então siga, preferencialmente, a ordem abaixo. Em geral os exercícios são separados em fixação, intermediário e avançado. Recomendamos fazer os exercícios de fixação antes de avançar para o próximo tópico.
 
 ## Conteúdo
 
