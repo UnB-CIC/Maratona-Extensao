@@ -24,7 +24,7 @@ Siga o passo-a-passo abaixo para se cadastrar em algum dos grupos de estudos em 
  
 4) A partir da sua tela inicial, clique na aba "Extensão", depois em "Cursos":
 
-
+![alt text](imagens/inscricao_0.png)
 
 5) No formulário de busca, digite "Grupo de Estudos em Programação Competitiva" (sem aspas duplas no campo), levando-o a obter a seguinte tela:
 
