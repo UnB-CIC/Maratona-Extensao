@@ -36,3 +36,4 @@ Siga o passo-a-passo abaixo para se cadastrar em algum dos grupos de estudos em 
 
 7) Preencha corretamente o formulário de inscrição. Após o preenchimento e solicitação de inscrição, aguarde o contato da equipe do grupo de estudos para os próximos passos.
 
+Créditos: Alberto, Carolina e Enzo.
