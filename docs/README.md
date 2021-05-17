@@ -5,7 +5,7 @@ Esse é um projeto de extensão desenvolvido no Distrito Federal a partir do esf
 As atividades do projeto são divididas em 3 grupos: iniciante, intermediário e avançado, cujas páginas são
 
 - [Iniciante](iniciante/README.md)
-- [Intermediário]()
+- [Intermediário](intermediario/README.md)
 - [Avançado](avancado/README.md)
 
 # Grupo do Telegram
