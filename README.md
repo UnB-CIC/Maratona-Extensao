@@ -7,3 +7,5 @@ As atividades do projeto são divididas em 3 grupos: iniciante, intermediário e
 - [Iniciante](docs/iniciante/README.md)
 - [Intermediário](docs/intermediario/README.md)
 - [Avançado](docs/avancado/README.md)
+
+## [Inscreva-se!](docs/inscricoes.md)
