@@ -14,17 +14,25 @@ Siga o passo-a-passo abaixo para se cadastrar em algum dos grupos de estudos em 
 
 1) Se você não possui cadastro no SIGAA, faça o cadastro como visitante no SIGAA clicando [aqui](https://sig.unb.br/sigaa/public/extensao/loginCursosEventosExtensao.jsf). Ao abrir a página, clique em "Ainda não possuo cadastro!". Preencha o formulário de inscrição corretamente.
 
-2) Faça o login no SIGAA clicando [aqui](https://sig.unb.br/sigaa/public/extensao/loginCursosEventosExtensao.jsf) e insira corretamente as suas credenciais.
-
-3) Escolha um dos grupos de estudos disponíveis clicando no respectivo link abaixo:
+2) Escolha um dos grupos de estudos disponíveis no projeto de extensão. Informações detalhadas como o dia e horário das aulas virtuais, como também o cronograma de aulas podem ser acessados clicando nas páginas de cada grupo a seguir:
 
 * [Nível Iniciante](https://sig.unb.br/sigaa/link/public/extensao/visualizacaoAcaoExtensao/1971) (para estudantes do Ensino Médio)
 * [Nível Intermediário](https://sig.unb.br/sigaa/link/public/extensao/visualizacaoAcaoExtensao/1957) (para estudantes do Ensino Médio e do Ensino Superior)
 * [Nível Avançado](https://sig.unb.br/sigaa/link/public/extensao/visualizacaoAcaoExtensao/1960) (para estudantes do Ensino Médio e do Ensino Superior)
 
-  Ao clicar em algum dos links acima, você será encaminhado para a página do grupo de estudos no SIGAA e verá informações do dia e horários das aulas virtuais, como também da ementa do grupo de estudos escolhido.
+3) Faça o login no SIGAA clicando [aqui](https://sig.unb.br/sigaa/public/extensao/loginCursosEventosExtensao.jsf) e insira corretamente as suas credenciais.
+ 
+4) A partir da sua tela inicial, clique na aba "Extensão", depois em "Cursos":
 
-4) Vá até ao final da página do grupo de estudos e clique em "Clique aqui para fazer a sua Inscrição"
+![alt text](imagens/inscricao_0.png)
+
+5) No formulário de busca, digite "Grupo de Estudos em Programação Competitiva" (sem aspas duplas no campo), levando-o a obter a seguinte tela:
+
+![alt text](imagens/inscricao_1.png)
+
+6) Os três grupos de estudos irão aparecer na tela. Inscreva-se clicando na seta verde associada ao grupo de sua escolha: 
+
+![alt text](imagens/inscricao_2.png)
 
 5) Preencha corretamente o formulário de inscrição. Após o preenchimento e solicitação de inscrição, aguarde o contato da equipe do grupo de estudos para os próximos passos.
 
