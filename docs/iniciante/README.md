@@ -2,7 +2,7 @@
 
 Este repositório foi feito com o intuito de reunir os materiais utilizados para as aulas iniciantes do projeto de extensão de [Programação Competitiva](http://maratona.unb.br/) da [Universidade de Brasília](http://www.unb.br/), realizado de forma virtual.
 
-Link oficial no sistema SIGAA: [Grupo de Estudos em Programação Competitiva - Nível Iniciante](https://sig.unb.br/sigaa/public/extensao/viewDadosCursoEvento.jsf)
+Link oficial no sistema SIGAA: [Grupo de Estudos em Programação Competitiva - Nível Iniciante](https://sig.unb.br/sigaa/link/public/extensao/visualizacaoAcaoExtensao/1971)
 
 Se encontram aqui: videoaulas, exercícios recomendados e materiais extras de outras fontes. As aulas serão separadas por assunto, e um assunto pode conter mais de uma aula.
 
