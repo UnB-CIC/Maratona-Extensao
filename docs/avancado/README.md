@@ -1,7 +1,7 @@
 Material das Aulas Avançadas
 ====================================
 
-Página do grupo avançado do projeto de extensão. Link oficial no sistema SIGAA: [Grupo de Estudos em Programação Competitiva - Nível Avançado](https://sig.unb.br/sigaa/public/extensao/viewDadosCursoEvento.jsf)
+Página do grupo avançado do projeto de extensão. Link oficial no sistema SIGAA: [Grupo de Estudos em Programação Competitiva - Nível Avançado](https://sig.unb.br/sigaa/link/public/extensao/visualizacaoAcaoExtensao/1960)
 
 Se encontram aqui: videoaulas, exercícios recomendados e materiais extras de outras fontes. O conteúdo é dividido em tópicos, e cada tópico pode abranger mais de uma semana de atividades.
 
