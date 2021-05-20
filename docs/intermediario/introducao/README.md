@@ -9,7 +9,7 @@ Introdução
 <details>
     <summary>Slides da aula 1</summary>
 
-<iframe src="https://docs.google.com/presentation/d/1myQ7EMeeFY9iK9m3V83WA7dyb485dNR2p2ck_hBAH7w/edit?usp=sharing" frameborder="0" width="672" height="378" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1myQ7EMeeFY9iK9m3V83WA7dyb485dNR2p2ck_hBAH7w/embed?start=false&loop=false&delayms=60000" frameborder="0" width="672" height="378" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 </details>
 
