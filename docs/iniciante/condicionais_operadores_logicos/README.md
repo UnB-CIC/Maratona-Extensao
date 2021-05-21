@@ -45,7 +45,7 @@ Condicionais e Operadores Lógicos
 
 - Lista de Exercícios 02 
   - Acessem o [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login) e entrem na disciplina GE Iniciante.
-  - ID da disciplina: 7750
+  - ID da disciplina: 7550
   - Chave: XMGN22y
 - Exercícios Extras
     - Em breve

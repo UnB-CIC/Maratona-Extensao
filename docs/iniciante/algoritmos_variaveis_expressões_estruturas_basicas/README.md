@@ -42,9 +42,9 @@ Algoritmos, variáveis, expressões e estruturas básicas
 
 <div markdown=1>
 
-- Lista de Exercícios 02 
+- Lista de Exercícios 01 
   - Acessem o [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login) e entrem na disciplina GE Iniciante.
-  - ID da disciplina: 7750
+  - ID da disciplina: 7550
   - Chave: XMGN22y
 - Exercícios Extras
     - [[URI 1010] Cálculo Simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1010)
