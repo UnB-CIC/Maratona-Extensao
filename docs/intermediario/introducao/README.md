@@ -45,7 +45,8 @@ Introdução
 <div markdown=1>
 
 - [Repositório do Prof. Edson Alves](https://github.com/edsomjr/TEP/tree/master/Introducao)
-- [Grupo da UnBalloon no Codeforces](https://codeforces.com/group/nituVTsHQX/contests)    
+- [Grupo da UnBalloon no Codeforces](https://codeforces.com/group/nituVTsHQX/contests)
+- [Informações sobre a II Maratona de Programaçao UnBalloon](http://maratona.cic.unb.br/unb/72-ii-maratona-programacao-unballon)
     
 </div>
 </details>
