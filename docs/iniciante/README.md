@@ -11,7 +11,10 @@ Caso tenha interesse em assistir as aulas então siga, preferencialmente, a orde
 ## Conteúdo
 
 1. [Introdução](introducao/README.md)
-    - Apresentação, juízes automáticos.
+    - [Apresentação](https://docs.google.com/presentation/d/1G2qelrFmWpfeX7-oASev_tCl25VSVXh3k5JPL27IrME/edit?usp=sharing).
+        - [Discord](https://discord.gg/xCJnGMKN)
+        - [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
+        - [Meninas.comp](https://t.me/joinchat/WLUfDFjHmdDGOSW1)
     - Algoritmos, variáveis, expressões, estruturas básicas.
     - Condicionais, operadores lógicos.
     - Iteração.
