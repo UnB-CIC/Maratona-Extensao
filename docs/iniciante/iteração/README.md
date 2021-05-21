@@ -1,4 +1,4 @@
-Iteração.
+Iteração
 ====================================
 
 ## Videoaula
@@ -19,7 +19,7 @@ Iteração.
 <details>
     <summary>Slides</summary>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTsSgDRnVS_576JcrNwASzD74rwFlcwwJcF3P0rbtCwRtMMZhc4QBWaTO5CqCh0tUmOwHJjOjAQ_I2S/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTsSgDRnVS_576JcrNwASzD74rwFlcwwJcF3P0rbtCwRtMMZhc4QBWaTO5CqCh0tUmOwHJjOjAQ_I2S/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 </details>
 

@@ -5,7 +5,9 @@ Introdução - Apresentação do Projeto
 
 <details>
     <summary>Video aula</summary>
-Em breve
+
+- Em breve
+
 </details>
 
 - O que vocês aprenderão?
@@ -19,7 +21,7 @@ Em breve
 <details>
     <summary>Slides</summary>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRgIHbr7wyJP_MFGu515xgMkliHyuADId8qfi0qCqjcsnvbR0a0jVKW2i9aGcN4d6P_oEZXuIlN6aDZ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRgIHbr7wyJP_MFGu515xgMkliHyuADId8qfi0qCqjcsnvbR0a0jVKW2i9aGcN4d6P_oEZXuIlN6aDZ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 </details>
 

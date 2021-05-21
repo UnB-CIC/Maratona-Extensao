@@ -1,4 +1,4 @@
-Algoritmos, variáveis, expressões e estruturas básicas.
+Algoritmos, variáveis, expressões e estruturas básicas
 ====================================
 
 ## Videoaula
@@ -19,7 +19,7 @@ Algoritmos, variáveis, expressões e estruturas básicas.
 <details>
     <summary>Slides</summary>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSXtkN0AxTN4CFzEka3G88uQ7g5LzZmliWfcfQjzuVuNlleLV4xBmrnt6iPrnrMNWS7cwOeneL09Jib/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSXtkN0AxTN4CFzEka3G88uQ7g5LzZmliWfcfQjzuVuNlleLV4xBmrnt6iPrnrMNWS7cwOeneL09Jib/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 </details>
 
@@ -30,14 +30,15 @@ Algoritmos, variáveis, expressões e estruturas básicas.
 
 <div markdown=1>
 
-- [Documentação do C++ ](https://devdocs.io/cpp-algorithm/)
+  - [Documentação do C++ ](https://devdocs.io/cpp-algorithm/)
+  
 </div>
 </details>
 
 ## Lista de Exercícios
 
 <details>
-    <summary>URI</summary>
+    <summary>URI Online Judge</summary>
 
 <div markdown=1>
 
