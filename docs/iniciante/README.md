@@ -4,9 +4,9 @@ Este repositório foi feito com o intuito de reunir os materiais utilizados para
 
 Link oficial no sistema SIGAA: [Grupo de Estudos em Programação Competitiva - Nível Iniciante](https://sig.unb.br/sigaa/link/public/extensao/visualizacaoAcaoExtensao/1971)
 
-Se encontram aqui: videoaulas, exercícios recomendados e materiais extras de outras fontes. As aulas serão separadas por assunto, e um assunto pode conter mais de uma aula.
+Se encontram aqui: videoaulas, exercícios recomendados e materiais extras de outras fontes. As aulas serão separadas por assunto.
 
-Caso tenha interesse em assistir as aulas então siga, preferencialmente, a ordem abaixo. Os exercícios serão separados em fixação, intermediário e avançado. Recomendamos fazer pelo menos todos os exercícios de fixação antes de avançar para o próximo tópico.
+Caso tenha interesse em assistir as aulas então siga, preferencialmente, a ordem abaixo. A cada semana haverá uma lista de exercícios disponibilizada via plataforma do URI Online Judge e exercícios extras serão deixados em cada assunto para fixação. 
 
 ## Conteúdo
 
