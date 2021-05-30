@@ -6,7 +6,7 @@ Algoritmos, variáveis, expressões e estruturas básicas
 <details>
     <summary>Video aula</summary>
 
-- Em breve
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m5A_vF0fFqQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </details>
 
@@ -31,6 +31,14 @@ Algoritmos, variáveis, expressões e estruturas básicas
 <div markdown=1>
 
   - [Documentação do C++ ](https://devdocs.io/cpp-algorithm/)
+
+  <details>
+    <summary>Video extra sobre scanf e printf</summary>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bKnOAQTqT5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</details>
+ 
   
 </div>
 </details>
