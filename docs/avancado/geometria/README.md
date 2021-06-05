@@ -74,9 +74,9 @@ Geometria
 - Exercícios de fixação
     - [[CSES] Posição Ponto](https://cses.fi/problemset/task/2189)
     - [[CF] Reta](https://codeforces.com/problemset/problem/498/A)
-    - [[CF] Complexidade](https://codeforces.com/contest/1032/problem/D)
     - [[CSES] Área Polígono](https://cses.fi/problemset/task/2191)
     - [[CSES] Ponto dentro do Polígono](https://cses.fi/problemset/task/2192)
+    - [[CF] Complexidade](https://codeforces.com/contest/1032/problem/D)
     - [[NERC 2020] Produto Vetorial](https://codeforces.com/problemset/problem/1468/G)
 
 - Exercícios intermediários
