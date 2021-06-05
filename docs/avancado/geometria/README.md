@@ -77,7 +77,6 @@ Geometria
     - [[CF] Complexidade](https://codeforces.com/contest/1032/problem/D)
     - [[CSES] Área Polígono](https://cses.fi/problemset/task/2192)
     - [[NERC 2020] Produto Vetorial](https://codeforces.com/problemset/problem/1468/G)
-    - [[CF] Ordenação Angular](https://codeforces.com/problemset/problem/257/C)
 
 - Exercícios intermediários
     - [[CF] Ponto dentro do Polígono](https://codeforces.com/contest/1030/problem/B)
@@ -87,6 +86,7 @@ Geometria
     - [[CF] Polígono](https://codeforces.com/contest/772/problem/B)
 
 - Exercícios difíceis
+    - [[CF] Ordenação Angular](https://codeforces.com/problemset/problem/257/C)
     - [[Summer School 2018] Ponto dentro do Polígono (Busca Binária)](https://codeforces.com/group/3qadGzUdR4/contest/101707/problem/D)
     - [[CF] Complexidade](https://codeforces.com/contest/1455/problem/E)
     - [[GCPC 2018] Rotação 3D](https://codeforces.com/gym/102021)
