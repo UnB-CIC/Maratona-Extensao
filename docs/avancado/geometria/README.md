@@ -72,19 +72,22 @@ Geometria
 <div markdown=1>
 
 - Exercícios de fixação
+    - [[CSES] Posição Ponto](https://cses.fi/problemset/task/2189)
     - [[CF] Reta](https://codeforces.com/problemset/problem/498/A)
     - [[CF] Complexidade](https://codeforces.com/contest/1032/problem/D)
-    - [[CSES] Polígono](https://cses.fi/problemset/task/2192)
-    - [[NERC 2020] ](https://codeforces.com/problemset/problem/1468/G)
+    - [[CSES] Área Polígono](https://cses.fi/problemset/task/2192)
+    - [[NERC 2020] Produto Vetorial](https://codeforces.com/problemset/problem/1468/G)
     - [[CF] Ordenação Angular](https://codeforces.com/problemset/problem/257/C)
+
 - Exercícios intermediários
-    - [[CF] Polígono](https://codeforces.com/contest/1030/problem/B)
+    - [[CF] Ponto dentro do Polígono](https://codeforces.com/contest/1030/problem/B)
     - [[CF] Distância Euclidiana](https://codeforces.com/problemset/problem/1495/A)
     - [[CF] Circunferência](https://codeforces.com/problemset/problem/1100/C)
     - [[CF] Produto Vetorial 5D](https://codeforces.com/problemset/problem/850/A)
     - [[CF] Polígono](https://codeforces.com/contest/772/problem/B)
+
 - Exercícios difíceis
-    - [[Summer School 2018] Polígono Busca Binária](https://codeforces.com/group/3qadGzUdR4/contest/101707/problem/D)
+    - [[Summer School 2018] Ponto dentro do Polígono (Busca Binária)](https://codeforces.com/group/3qadGzUdR4/contest/101707/problem/D)
     - [[CF] Complexidade](https://codeforces.com/contest/1455/problem/E)
     - [[GCPC 2018] Rotação 3D](https://codeforces.com/gym/102021)
 </div>
