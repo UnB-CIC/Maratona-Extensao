@@ -75,7 +75,6 @@ Geometria
     - [[CSES] Posição Ponto](https://cses.fi/problemset/task/2189)
     - [[CF] Reta](https://codeforces.com/problemset/problem/498/A)
     - [[CSES] Área Polígono](https://cses.fi/problemset/task/2191)
-    - [[CSES] Ponto dentro do Polígono](https://cses.fi/problemset/task/2192)
     - [[CF] Complexidade](https://codeforces.com/contest/1032/problem/D)
     - [[NERC 2020] Produto Vetorial](https://codeforces.com/problemset/problem/1468/G)
 
