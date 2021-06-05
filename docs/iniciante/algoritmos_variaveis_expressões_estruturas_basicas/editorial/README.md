@@ -179,9 +179,6 @@ int main() {
 </div>
 </details>
 
-</div>
-</details>
-
 <details>
     <summary>URI 1008 - Salário</summary>
 
@@ -259,10 +256,6 @@ int main() {
 
 ## Desafio
 
-
-</div>
-</details>
-
 <details>
     <summary>URI 1018 - Cédulas</summary>
 
@@ -301,10 +294,6 @@ int main() {
     return 0;
 }
 ``` 
-
-</div>
-</details>
-
 
 </div>
 </details>
