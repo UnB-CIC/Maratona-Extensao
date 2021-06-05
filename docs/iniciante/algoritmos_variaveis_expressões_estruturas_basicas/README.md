@@ -61,3 +61,14 @@ Algoritmos, variáveis, expressões e estruturas básicas
     - [[URI 1018] Cédulas](https://www.urionlinejudge.com.br/judge/pt/problems/view/1018) 
 </div>
 </details>
+
+<details>
+    <summary>Editorial</summary>
+
+<div markdown=1>
+
+- [Editorial Semana 01 - Algoritmos, variáveis, expressões e estruturas básicas](editorial/README.md)
+
+</div>
+</details>
+

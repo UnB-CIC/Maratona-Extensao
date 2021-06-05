@@ -48,7 +48,11 @@ Condicionais e Operadores Lógicos
   - ID da disciplina: 7550
   - Chave: XMGN22y
 - Exercícios Extras
-    - Em breve
+    - [[URI 1036] Fórmula de Bhaskara](https://www.urionlinejudge.com.br/judge/pt/problems/view/1036)
+    - [[URI 1037] Intervalo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1037)
+    - [[URI 1036] Fórmula de Bhaskara](https://www.urionlinejudge.com.br/judge/pt/problems/view/1036)
+    - [[URI 1037] Intervalo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1037) 
+    - [[URI 1040] Média 3](https://www.urionlinejudge.com.br/judge/pt/problems/view/1040)
 - Desafio
     - Em breve 
 </div>
