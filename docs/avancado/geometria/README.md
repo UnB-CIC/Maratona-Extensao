@@ -75,11 +75,12 @@ Geometria
     - [[CSES] Posição Ponto](https://cses.fi/problemset/task/2189)
     - [[CF] Reta](https://codeforces.com/problemset/problem/498/A)
     - [[CF] Complexidade](https://codeforces.com/contest/1032/problem/D)
-    - [[CSES] Área Polígono](https://cses.fi/problemset/task/2192)
+    - [[CSES] Área Polígono](https://cses.fi/problemset/task/2191)
+    - [[CSES] Ponto dentro do Polígono](https://cses.fi/problemset/task/2192)
     - [[NERC 2020] Produto Vetorial](https://codeforces.com/problemset/problem/1468/G)
 
 - Exercícios intermediários
-    - [[CF] Ponto dentro do Polígono](https://codeforces.com/contest/1030/problem/B)
+    - [[CF] Retas](https://codeforces.com/contest/1030/problem/B)
     - [[CF] Distância Euclidiana](https://codeforces.com/problemset/problem/1495/A)
     - [[CF] Circunferência](https://codeforces.com/problemset/problem/1100/C)
     - [[CF] Produto Vetorial 5D](https://codeforces.com/problemset/problem/850/A)
