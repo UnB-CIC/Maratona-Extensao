@@ -23,5 +23,9 @@ Caso tenha interesse em assistir as videoaulas então siga, preferencialmente, a
     - DPs clássicas
     - DP na árvore
     - Otimizações de memória e tempo
-1. Geometria
+1. [Geometria](geometria/README.md)
+    - Estruturas
+    - Polígonos
+    - Casco Convexo
+    - Linha de Varredura
 1. Teoria dos números
