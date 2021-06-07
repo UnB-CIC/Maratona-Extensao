@@ -33,6 +33,7 @@ Condicionais e Operadores Lógicos
 <div markdown=1>
 
 - [Documentação do C++ ](https://devdocs.io/cpp-algorithm/)
+
 </div>
 </details>
 
@@ -51,6 +52,7 @@ Condicionais e Operadores Lógicos
     - [[URI 1036] Fórmula de Bhaskara](https://www.urionlinejudge.com.br/judge/pt/problems/view/1036)
     - [[URI 1037] Intervalo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1037)
     - [[URI 1040] Média 3](https://www.urionlinejudge.com.br/judge/pt/problems/view/1040)
+    - [[URI 1049] Animal](https://www.urionlinejudge.com.br/judge/pt/problems/view/1049)
 - Desafio
     - Em breve 
 </div>
