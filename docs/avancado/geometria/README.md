@@ -6,6 +6,8 @@ Geometria
 <details>
     <summary>Aula 1</summary>
 
+<iframe width="672" height="378" src="https://www.youtube.com/watch?v=VJ2GsuPnmpA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 </details>
 
 - Estruturas
@@ -24,6 +26,8 @@ Geometria
 <details>
     <summary>Slides da aula 1</summary>
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3_4gnUV3-Heex8lCiTIsoJPzzC1dbonf5dTb-BqgE42U-fOmpBAIayVe2JwxmKqwlulP55lhSCcYh/embed?start=false&loop=false&delayms=60000" frameborder="0" width="672" height="378" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 </details>
 
 <details>
@@ -37,6 +41,11 @@ Geometria
     <summary>Códigos da aula 1</summary>
 
 <div markdown=1>
+
+- [CSES Point Location Test](code/pointCross.cpp)
+- [CF Crazy Town](code/crazyTown.cpp)
+- [CSES Polygon Area](code/polygonArea.cpp)
+- [GCPC Hobbits](code/hobbits.cpp)
 
 </div>
 </details>
