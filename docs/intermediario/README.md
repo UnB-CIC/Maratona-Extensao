@@ -16,7 +16,7 @@ Caso tenha interesse em assistir as videoaulas então siga, preferencialmente, a
    - Apresentação
    - Palestra Motivacional
    - Juízes Automáticos
-1. Complexidade de Algoritmos 
+2. [Complexidade de Algoritmos](complexidade/README.md)
 1. Fundamentos da Linguagem C++
 
 
