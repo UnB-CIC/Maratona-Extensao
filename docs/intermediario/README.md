@@ -16,10 +16,19 @@ Caso tenha interesse em assistir as videoaulas então siga, preferencialmente, a
    - Apresentação
    - Palestra Motivacional
    - Juízes Automáticos
-2. [Complexidade de Algoritmos](complexidade/README.md)
+1. [Complexidade de Algoritmos](complexidade/README.md)
    - Introdução
    - Complexidade de tempo
    - Complexidade de memória
-1. Fundamentos da Linguagem C++
+1. [Fundamentos da Linguagem C++](fundamentos\ c++/README.md)
+   - Visão Geral
+   - Tipos de Dados
+   - Leitura e Escrita de Dados
+   - Controle de Fluxo
+   - Funções
+   - Estruturas de Dados Básicas
+
+
+
 
 
