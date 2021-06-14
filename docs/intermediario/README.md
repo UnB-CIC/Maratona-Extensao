@@ -20,7 +20,7 @@ Caso tenha interesse em assistir as videoaulas então siga, preferencialmente, a
    - Introdução
    - Complexidade de tempo
    - Complexidade de memória
-1. [Fundamentos da Linguagem C++](fundamentos c++/README.md)
+1. [Fundamentos da Linguagem C++](fundamentos-c++/README.md)
    - Visão Geral
    - Tipos de Dados
    - Leitura e Escrita de Dados
