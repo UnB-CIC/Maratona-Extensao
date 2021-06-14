@@ -20,7 +20,13 @@ Fundamentos da Linguagem C++
 ## Códigos e Materiais
 
 <details>
-    <summary>Códigos</summary>
+    <summary>Códigos da aula 3</summary>
+
+<div markdown=1>
+
+- [Template C++](code/template.cpp)
+ 
+</div>
 
 </details>
 
@@ -32,5 +38,25 @@ Fundamentos da Linguagem C++
 - [Repositório do Prof. Edson Alves](https://github.com/edsomjr/TEP/tree/master/Introducao)
 - [Grupo da UnBalloon no Codeforces](https://codeforces.com/group/nituVTsHQX/contests)
     
+</div>
+</details>
+
+## Exercícios
+
+<details>
+    <summary>Exercícios da aula 3</summary>
+<div markdown=1>
+
+- [Grupo do Codeforces](https://codeforces.com/group/G19ss2enIt/contests)
+ 
+</div>
+
+<details>
+    <summary>Exercícios Extras</summary>
+<div markdown=1>
+
+- [[URI] 1087](https://www.urionlinejudge.com.br/judge/pt/problems/view/1087)
+- [[AtCoder] ABC043-C](https://atcoder.jp/contests/abc043/tasks/arc059_a)
+
 </div>
 </details>
