@@ -6,7 +6,7 @@ Fundamentos da Linguagem C++
 <details>
     <summary>Aula 3</summary>
 
-<iframe width="672" height="378" src="https://youtu.be/t0cC8Pj9Rio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></details>
+<iframe width="672" height="378" src="https://www.youtube.com/embed/t0cC8Pj9Rio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></details>
 
 ## Slides
 
