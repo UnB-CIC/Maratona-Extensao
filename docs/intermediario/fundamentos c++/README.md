@@ -45,6 +45,7 @@ Fundamentos da Linguagem C++
 
 <details>
     <summary>Exercícios da aula 3</summary>
+
 <div markdown=1>
 
 - [Grupo do Codeforces](https://codeforces.com/group/G19ss2enIt/contests)
@@ -54,6 +55,7 @@ Fundamentos da Linguagem C++
 
 <details>
     <summary>Exercícios Extras</summary>
+    
 <div markdown=1>
 
 - [[URI] 1087](https://www.urionlinejudge.com.br/judge/pt/problems/view/1087)
