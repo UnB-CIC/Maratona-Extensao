@@ -50,6 +50,7 @@ Fundamentos da Linguagem C++
 - [Grupo do Codeforces](https://codeforces.com/group/G19ss2enIt/contests)
  
 </div>
+</details>
 
 <details>
     <summary>Exercícios Extras</summary>
