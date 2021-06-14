@@ -11,7 +11,7 @@ Fundamentos da Linguagem C++
 ## Slides
 
 <details>
-    <summary>Slides da aula 3</summary>
+    <summary>Slides da aula</summary>
 
 <iframe src="https://docs.google.com/presentation/d/1xiOd7ldXql-rpEuHpdoOtjcOvl4ivL3fZIhYUsMlZX8/embed?start=false&loop=false&delayms=60000" frameborder="0" width="672" height="378" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -20,7 +20,7 @@ Fundamentos da Linguagem C++
 ## Códigos e Materiais
 
 <details>
-    <summary>Códigos da aula 3</summary>
+    <summary>Códigos</summary>
 
 <div markdown=1>
 
@@ -44,7 +44,7 @@ Fundamentos da Linguagem C++
 ## Exercícios
 
 <details>
-    <summary>Exercícios da aula 3</summary>
+    <summary>Exercícios</summary>
 
 <div markdown=1>
 

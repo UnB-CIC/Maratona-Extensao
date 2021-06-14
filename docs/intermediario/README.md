@@ -20,6 +20,9 @@ Caso tenha interesse em assistir as videoaulas então siga, preferencialmente, a
    - Introdução
    - Complexidade de tempo
    - Complexidade de memória
-1. Fundamentos da Linguagem C++
+3. [Fundamentos da Linguagem C++](fundamentos%20c++/README.md)
+   - Estrutura Geral
+   - Condicionais e Loops de Repetição
+   - Funções e Comandos úteis
 
 
