@@ -70,6 +70,12 @@ Geometria
 - [[CF-Blog] Geometry: 2D points and lines](https://codeforces.com/blog/entry/48122)
 - [[CF-Blog] Geometry: Polygon algorithms](https://codeforces.com/blog/entry/48868)
 
+- [[CP-algo] Geometry: Convex Hull using Graham's Scan](https://cp-algorithms.com/geometry/grahams-scan-convex-hull.html)
+- [[Wikipedia] Convex Hull using Monotone Chain](https://en.wikibooks.org/wiki/Algorithm_Implementation/Geometry/Convex_hull/Monotone_chain)
+- [[TopCoder] Sweep Line Algorithms](https://www.topcoder.com/thrive/articles/Line%20Sweep%20Algorithms)
+- [[CF-Blog] How to sweep like a Sir](https://codeforces.com/blog/entry/20377)
+- [[CP-algo] Sweep Line - Intersecting Segments](https://cp-algorithms.com/geometry/intersecting_segments.html)
+
 </div>
 </details>
 
@@ -107,5 +113,17 @@ Geometria
 
 <div markdown=1>
 
+- Exercícios de fixação
+    - [[CSES] Convex Hull](https://cses.fi/problemset/task/2195)
+    - [[SPOJ] Convex Hull](https://www.spoj.com/problems/VMILI/)
+    - [[CSES] Sweep Line](https://cses.fi/problemset/task/1629)
+- Exercícios intermediários
+    - [[SPOJ] Convex Hull](https://www.spoj.com/problems/BSHEEP/)
+    - [[CF] Sweep Line + Combinatória](https://codeforces.com/contest/1420/problem/D)
+    - [[SPOJ] Convex Hull - Combinação Linear](https://www.spoj.com/problems/PERFUME/en/)
+- Exercícios difíceis
+    - [[VIII Maratona UnB] - Convex Hull Combinação Linear](https://codeforces.com/group/btcK4I5D5f/contest/308631/problem/G)
+    - [[ICPC - Nacional 2019] Geometria + Lazy Propagation](https://codeforces.com/gym/102346/problem/F)
+    -[[SWERC 2018] Sweep Line Radial](https://codeforces.com/gym/102465/problem/F)
 </div>
 </details>
