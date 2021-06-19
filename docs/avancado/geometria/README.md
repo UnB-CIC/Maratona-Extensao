@@ -75,6 +75,7 @@ Geometria
 - [[TopCoder] Sweep Line Algorithms](https://www.topcoder.com/thrive/articles/Line%20Sweep%20Algorithms)
 - [[CF-Blog] How to sweep like a Sir](https://codeforces.com/blog/entry/20377)
 - [[CP-algo] Sweep Line - Intersecting Segments](https://cp-algorithms.com/geometry/intersecting_segments.html)
+- [[Summer School 2020] Geometria](https://www.youtube.com/watch?v=eLCm1gKBe3c)
 
 </div>
 </details>
@@ -116,7 +117,7 @@ Geometria
 - Exercícios de fixação
     - [[CSES] Convex Hull](https://cses.fi/problemset/task/2195)
     - [[SPOJ] Convex Hull](https://www.spoj.com/problems/VMILI/)
-    - [[CSES] Sweep Line](https://cses.fi/problemset/task/1629)
+    - [[CSES] Sweep Line](https://cses.fi/problemset/task/1619)
 - Exercícios intermediários
     - [[SPOJ] Convex Hull](https://www.spoj.com/problems/BSHEEP/)
     - [[CF] Sweep Line + Combinatória](https://codeforces.com/contest/1420/problem/D)
@@ -124,6 +125,7 @@ Geometria
 - Exercícios difíceis
     - [[VIII Maratona UnB] - Convex Hull Combinação Linear](https://codeforces.com/group/btcK4I5D5f/contest/308631/problem/G)
     - [[ICPC - Nacional 2019] Geometria + Lazy Propagation](https://codeforces.com/gym/102346/problem/F)
-    -[[SWERC 2018] Sweep Line Radial](https://codeforces.com/gym/102465/problem/F)
+    - [[SWERC 2018] Sweep Line Radial](https://codeforces.com/gym/102465/problem/F)
+    - [[Timus] Sweep Line Segment Intersections](https://acm.timus.ru/problem.aspx?space=1&num=14690)
 </div>
 </details>

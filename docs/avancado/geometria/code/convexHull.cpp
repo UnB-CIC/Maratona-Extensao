@@ -1,16 +1,17 @@
-vector<point> convex_hull(const vector<point> &points)
-{
-    vector<point> P(points);
+vp convex_hull(vp points){
+    vp P(points);
     sort(P.begin(), P.end());
-    vector<point> L, U;
+    vp L, U;
+    // Lower Hull
     for(auto p: P){
-        while(L.size()>=2 and ccw(L[L.size()-2], L.back(), p)!=1)
+        while(L.size()>=2 and esq(L[L.size()-2], L.back(), p)==-1)
             L.pop_back();
         L.push_back(p);
     }
     reverse(P.begin(), P.end());
+    // Upper Hull
     for(auto p: P){
-        while(U.size()>=2 and ccw(U[U.size()-2], U.back(), p)!=1)
+        while(U.size()>=2 and esq(U[U.size()-2], U.back(), p)==-1)
             U.pop_back();
         U.push_back(p);
     }
