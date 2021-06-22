@@ -16,6 +16,8 @@ Geometria
 <details>
     <summary>Aula 2</summary>
 
+<iframe width="672" height="378" src="https://www.youtube.com/embed/d6Ott8GYw7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 </details>
 
 - Casco Convexo
@@ -32,6 +34,8 @@ Geometria
 
 <details>
     <summary>Slides da aula 2</summary>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSBCAcxhg4sl1X9QOlm-ECUezsfU_-971GImkKDzLWxjVt29dg-xomIZAsB_kt1OD6jsuOHx4WfHdiF/embed?start=false&loop=false&delayms=60000" frameborder="0" width="672" height="378" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 </details>
 
@@ -55,6 +59,13 @@ Geometria
 
 <div markdown=1>
 
+
+- [CSES Convex Hull](code/convexHullCSES.cpp)
+- [SPOJ Military Story](code/militaryStory.cpp)
+- [CSES Restaurant Customers](code/restaurantCustomersCSES.cpp)
+- [Line Intersection Problem](code/numberLineIntersection.cpp)
+- [ICPC 2019 Forests in Danger](code/rectangleUnion.cpp)
+
 </div>
 </details>
 
@@ -69,7 +80,6 @@ Geometria
 - [[CP-algo] Check if point belongs to the convex polygon](https://cp-algorithms.com/geometry/point-in-convex-polygon.html)
 - [[CF-Blog] Geometry: 2D points and lines](https://codeforces.com/blog/entry/48122)
 - [[CF-Blog] Geometry: Polygon algorithms](https://codeforces.com/blog/entry/48868)
-
 - [[CP-algo] Geometry: Convex Hull using Graham's Scan](https://cp-algorithms.com/geometry/grahams-scan-convex-hull.html)
 - [[Wikipedia] Convex Hull using Monotone Chain](https://en.wikibooks.org/wiki/Algorithm_Implementation/Geometry/Convex_hull/Monotone_chain)
 - [[TopCoder] Sweep Line Algorithms](https://www.topcoder.com/thrive/articles/Line%20Sweep%20Algorithms)
