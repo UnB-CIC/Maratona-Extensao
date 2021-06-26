@@ -55,3 +55,13 @@ Condicionais e Operadores Lógicos
     - [[URI 1049] Animal](https://www.urionlinejudge.com.br/judge/pt/problems/view/1049)
 </div>
 </details>
+
+<details>
+    <summary>Editorial</summary>
+
+<div markdown=1>
+
+- [Editorial Semana 02 - Condicionais e operadores lógicos](editorial/README.md)
+
+</div>
+</details>
