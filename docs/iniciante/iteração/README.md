@@ -53,7 +53,7 @@ Iteração
     - [[URI 1165] Número Primo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1165)
 - Desafios
     - Escreva um programa que mostre os números de 0 a 100 e coloque Fizz nos números múltiplos de 3 e Buzz nos múltiplos de 5, caso ambos ocorram mostre FizzBuzz.
-    - [[URI 1160] Crescimento Populacional](https://www.urionlinejudge.com.br/judge/pt/problems/view/1169)
+    - [[URI 1160] Crescimento Populacional](https://www.urionlinejudge.com.br/judge/pt/problems/view/1160)
 
 </div>
 </details>
