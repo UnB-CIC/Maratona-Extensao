@@ -45,9 +45,8 @@ Iteração
   - Acessem o [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login) e entrem na disciplina GE Iniciante.
   - ID da disciplina: 7550
   - Chave: XMGN22y
-- Exercícios Extras
-    - Em breve
 - Desafio
-    - Em breve 
+    - Escreva um programa que mostre os números de 0 a 100 e coloque Fizz nos números múltiplos de 3 e Buzz nos múltiplos de 5, caso ambos ocorram mostre FizzBuzz.
+
 </div>
 </details>
