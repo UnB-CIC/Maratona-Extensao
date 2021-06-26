@@ -53,7 +53,5 @@ Condicionais e Operadores Lógicos
     - [[URI 1037] Intervalo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1037)
     - [[URI 1040] Média 3](https://www.urionlinejudge.com.br/judge/pt/problems/view/1040)
     - [[URI 1049] Animal](https://www.urionlinejudge.com.br/judge/pt/problems/view/1049)
-- Desafio
-    - Em breve 
 </div>
 </details>

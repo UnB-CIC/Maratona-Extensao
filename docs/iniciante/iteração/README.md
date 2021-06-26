@@ -45,8 +45,15 @@ Iteração
   - Acessem o [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login) e entrem na disciplina GE Iniciante.
   - ID da disciplina: 7550
   - Chave: XMGN22y
-- Desafio
+- Exercícios Extras 
+    - [[URI 1118] Várias Notas Com Validação](https://www.urionlinejudge.com.br/judge/pt/problems/view/1118)
+    - [[URI 1131] Grenais](https://www.urionlinejudge.com.br/judge/pt/problems/view/1131)
+    - [[URI 1157] Divisores I](https://www.urionlinejudge.com.br/judge/pt/problems/view/1157)
+    - [[URI 1164] Número Perfeito](https://www.urionlinejudge.com.br/judge/pt/problems/view/1164)
+    - [[URI 1165] Número Primo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1165)
+- Desafios
     - Escreva um programa que mostre os números de 0 a 100 e coloque Fizz nos números múltiplos de 3 e Buzz nos múltiplos de 5, caso ambos ocorram mostre FizzBuzz.
+    - [[URI 1160] Crescimento Populacional](https://www.urionlinejudge.com.br/judge/pt/problems/view/1169)
 
 </div>
 </details>
