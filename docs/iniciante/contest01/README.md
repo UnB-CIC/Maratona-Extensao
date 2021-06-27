@@ -174,8 +174,8 @@ int main() {
 
 ## Parabéns a todos que participaram do contest! Em especial ao Top 5!
 
-- :trophy: WA_TLE_RE :trophy:
-- :trophy: Hackeando Propriedade Governamental :trophy:
-- :trophy: nãoseiumnomeprotime :trophy:
-- :trophy: onde dos Corsas Rebaixados :trophy:
-- :trophy: Felps apenas :trophy:
+- 🏆 WA_TLE_RE 
+- 🏆 Hackeando Propriedade Governamental 
+- 🏆 nãoseiumnomeprotime 
+- 🏆 onde dos Corsas Rebaixados 
+- 🏆 Felps apenas
