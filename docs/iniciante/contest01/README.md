@@ -182,5 +182,5 @@ int main() {
 - 🏆 WA_TLE_RE 
 - 🏆 Hackeando Propriedade Governamental 
 - 🏆 nãoseiumnomeprotime 
-- 🏆 onde dos Corsas Rebaixados 
-- 🏆 Felps apenas
+- 🏆 Bonde dos Corsas Rebaixados 
+- 🏆 felps apenas
