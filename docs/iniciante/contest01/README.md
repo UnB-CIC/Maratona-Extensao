@@ -174,8 +174,8 @@ int main() {
 
 ## Parabéns a todos que participaram do contest! Em especial ao Top 5!
 
-- <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f947.png?v8" alt="drawing" width="30"/> WA_TLE_RE <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f947.png?v8" alt="drawing" width="30"/>
-- <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f948.png?v8" alt="drawing" width="30"/> Hackeando Propriedade Governamental <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f948.png?v8" alt="drawing" width="30"/>
-- <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f949.png?v8" alt="drawing" width="30"/> nãoseiumnomeprotime <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f949.png?v8" alt="drawing" width="30"/>
+- <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f947.png?v8" alt="drawing" width="20"/> WA_TLE_RE <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f947.png?v8" alt="drawing" width="20"/>
+- <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f948.png?v8" alt="drawing" width="20"/> Hackeando Propriedade Governamental <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f948.png?v8" alt="drawing" width="20"/>
+- <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f949.png?v8" alt="drawing" width="20"/> nãoseiumnomeprotime <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f949.png?v8" alt="drawing" width="20"/>
 - onde dos Corsas Rebaixados
 - Felps apenas
