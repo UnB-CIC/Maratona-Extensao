@@ -4,9 +4,8 @@
 
 <details>
     <summary>URI 2377 - Pedágio</summary>
-    <caption><sup> OBI - Olimpíada Brasileira de Informática 2010 Fase 1 Nível 1 </caption></sup>
-
 <div markdown=1>
+    <caption><sup> OBI - Olimpíada Brasileira de Informática 2010 Fase 1 Nível 1 </caption></sup>
 
 ```cpp
 #include<bits/stdc++.h>
@@ -36,9 +35,9 @@ int main(){
 
 <details>
     <summary>URI 2413 - Busca na Internet</summary>
-    <caption><sup> OBI - Olimpíada Brasileira de Informática 2012 Fase 1 Nível Júnior </caption></sup>
 
 <div markdown=1>
+    <caption><sup> OBI - Olimpíada Brasileira de Informática 2012 Fase 1 Nível Júnior </caption></sup>
 
 ```cpp
 #include<bits/stdc++.h>
@@ -68,10 +67,10 @@ int main(){
 
 <details>
     <summary>URI 2424 - Tira-teima</summary>
-    <caption><sup> OBI - Olimpíada Brasileira de Informática 2012 Fase 2 Nível</caption></sup>
     
 
 <div markdown=1>
+    <caption><sup> OBI - Olimpíada Brasileira de Informática 2012 Fase 2 Nível</caption></sup>
 
 ```cpp
 #include<bits/stdc++.h>
@@ -106,9 +105,9 @@ int main(){
 
 <details>
     <summary>URI 2455 - Gangorra</summary>
-    <caption><sup>OBI - Olimpíada Brasileira de Informática 2014 Fase 1 Nível Júnior</caption></sup>
 
 <div markdown=1>
+    <caption><sup>OBI - Olimpíada Brasileira de Informática 2014 Fase 1 Nível Júnior</caption></sup>
 
 ```cpp
 #include<bits/stdc++.h>
@@ -143,9 +142,9 @@ int main(){
 
 <details>
     <summary>URI 2786 - Piso da Escola</summary>
-    <caption><sup>OBI - Olimpíada Brasileira de Informática 2018 - Fase 1</caption></sup>
 
 <div markdown=1>
+    <caption><sup>OBI - Olimpíada Brasileira de Informática 2018 - Fase 1</caption></sup>
 
 ```cpp
 
