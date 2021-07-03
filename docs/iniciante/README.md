@@ -17,6 +17,6 @@ Caso tenha interesse em assistir as aulas então siga, preferencialmente, a orde
     - [Iteração](iteração/README.md)
     - [Contest 01](contest01/README.md)
 2. Tópico 2
-    - String
+    - [String](string/README.md)
     - Vetores
     - Matrizes
