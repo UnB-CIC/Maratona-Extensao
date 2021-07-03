@@ -46,3 +46,9 @@ Em breve!
   - Acessem o [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login) e entrem na disciplina GE Iniciante.
   - ID da disciplina: 7550
   - Chave: XMGN22y
+- Exercícios Extras
+    - [[URI 1871] Zero vale Zero](https://www.urionlinejudge.com.br/judge/pt/problems/view/1871)
+    - [[URI 2694] Problema com a Calculadora](https://www.urionlinejudge.com.br/judge/pt/problems/view/2694)
+- Desafio
+    - [[URI 1278] Justificador II](https://www.urionlinejudge.com.br/judge/pt/problems/view/1278)
+
