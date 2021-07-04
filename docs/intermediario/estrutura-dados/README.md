@@ -1,4 +1,4 @@
-Estrutura de dados 1
+Estrutura de dados 1 e 2
 ====================================
 
 ## Videoaulas
