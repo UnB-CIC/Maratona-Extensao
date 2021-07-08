@@ -21,7 +21,7 @@ Condicionais e Operadores Lógicos
 <details>
     <summary>Slides</summary>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSCXWIqlEfF-9TmEEFXczqOea-ApoHFXv5prorf6QIzKavB1299A053WnfSjP3rQ4YZ9hkTWhdGILiV/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O3rbh7N-U9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </details>
 
