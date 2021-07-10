@@ -31,6 +31,7 @@ Strings
 <div markdown=1>
 
 - [Tabela ASCII - Completa](https://carlacastanho.github.io/Material-de-APC/assets/files/ASCII.pdf)
+- [Strings - Material Extra](extra/README.md)
 
 </div>
 </details>
