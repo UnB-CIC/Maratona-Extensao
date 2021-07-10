@@ -14,9 +14,9 @@ Caso tenha interesse em assistir as aulas então siga, preferencialmente, a orde
     - [Apresentação](introdução/README.md)
     - [Algoritmos, variáveis, expressões, estruturas básicas](algoritmos_variaveis_expressões_estruturas_basicas/README.md)
     - [Condicionais, operadores lógicos](condicionais_operadores_logicos/README.md)
-    - [Iteração](iteração/README.md)
     - [Contest 01](contest01/README.md)
+    - [Iteração](iteração/README.md)
 2. Tópico 2
     - [String](string/README.md)
-    - Vetores
+    - [Vetores](vetores/README.md)
     - Matrizes

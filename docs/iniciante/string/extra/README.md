@@ -4,14 +4,14 @@
 
 Retorna o tamanho da string.
 
-```c++
+```cpp
 string nome;
 nome.size();
 ```
 
 Respectivamente, adiciona e remove um caracter ao final da string.
 
-```c++
+```cpp
 char c;
 string nome;
 nome.push_back(c);
@@ -20,20 +20,20 @@ nome.pop_back();
 
 Concatena uma string ao final de outra.
 
-```c++
+```cpp
 string a, b;
 a.append(b);
 // o mesmo de fazer a + b;
 ```
 
 Remove todos os caracteres de uma string.
-```c++
+```cpp
 string nome;
 nome.clear();
 ```
 
 Checa se uma string está vazia ou não. Retorna verdadeiro ou falso.
-```c++
+```cpp
 string nome;
 nome.empty();
 ```
@@ -42,14 +42,14 @@ nome.empty();
 
 O método ```cin``` lê uma string sem considerar espaços. Para ler uma string com espaço precisamos usar o método ```getline()```.
 
-```c++
+```cpp
 string nome;
 cin >> nome; 
 ```
 
 O método ```getline()``` é capaz de ler o dado de entrada até que uma nova linha seja detectada enquanto ```cin.ignore()``` limpa o caracter de nova linha \n do buffer de entrada ```cin```.
 
-```c++
+```cpp
 int n;
 cin >> n;
 cin.ignore();
@@ -59,7 +59,7 @@ getline(cin, nome);
 
 As vezes, um exercício pode pedir que a gente leia várias strings, sem especificar a quantidade. Nesses casos, a gente precisa ler até o que chamamos de EOF *(End of File)*, ou seja, ler as strings até que não exista mais nenhuma string a ser lida pelo programa. Nesses casos, devemos ler as string dentro de um loop.
 
-```c++
+```cpp
 string nome;
 while(cin >> nome){
     // seu código
@@ -70,7 +70,7 @@ while(cin >> nome){
 
 A tabela ASCII é muito importante quando trabalhamos com string, pois cada caracter tem sua correspondência  na tabela. Dessa forma, podemos comparar caracteres com outros caracteres, ou até mesmo com outros números.
 
-```c++
+```cpp
 char caracter;
 
 // ambos ifs possuem a mesma condição
@@ -84,7 +84,7 @@ if(caracter >= 97 and caracter <= 122){
 
 Podemos também deslocar um caracter para a esquerda ou para a direita, conforme a tabela ASCII.
 
-```c++
+```cpp
 char caracter = 'a';
 caracter += 3; // 'd'
 caracter -= 2; // 'b'
