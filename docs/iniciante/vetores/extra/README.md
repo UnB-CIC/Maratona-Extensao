@@ -97,7 +97,7 @@ vetor.push_back(2);
 ```cpp
 vector<int> vetor;
 vetor.push_back(2);
-vetor.pop_back()
+vetor.pop_back();
 ```
 
 ```clear()``` Apaga os elementos do vetor.
