@@ -85,11 +85,19 @@ v[1] = aux; // trocamos o v[1] pela aux que salvou o valor que tinha em v[0]
 
 ## Métodos úteis da classe vector
 
+```size()``` Retorna o número de elementos no vetor.
+
+```cpp
+vector<int> vetor = {1, 2, 3};
+cout << vetor.size() << endl;
+```
+
 ```push_back(elemento)``` Adiciona um elemento ao final do vetor.
 
 ```cpp
 vector<int> vetor;
 vetor.push_back(2);
+cout << vetor.size() << endl;
 ```
 
 ```pop_back()``` Exclui o elemento no final do vetor.
@@ -98,6 +106,7 @@ vetor.push_back(2);
 vector<int> vetor;
 vetor.push_back(2);
 vetor.pop_back();
+cout << vetor.size() << endl;
 ```
 
 ```clear()``` Apaga os elementos do vetor.
@@ -107,6 +116,7 @@ vector<int> vetor;
 vetor.push_back(2);
 vetor.push_back(5);
 vetor.clear();
+cout << vetor.size() << endl;
 ```
 
 ```empty()``` Retorna true se o vetor está vazio ou false se o vetor não estiver vazio.
@@ -114,17 +124,9 @@ vetor.clear();
 ```cpp
 vector<int> vetor;
 vetor.push_back(2);
-if (vetor.empety())
+if (vetor.empty())
     cout << "O vetor esta vazio" << endl;
 else
     cout << "O vetor não esta vazio" << endl;
 ```
 
-```size()``` Retorna o número de elementos no vetor.
-
-```cpp
-vector<int> vetor;
-vetor.push_back(2);
-vetor.push_back(5);
-cout << vetor.size() << endl;
-```
