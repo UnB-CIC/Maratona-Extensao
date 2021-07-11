@@ -1,4 +1,4 @@
-## Editorial Semana 02 - Condicionais e operadores lógicos
+## Editorial Semana 03 - Condicionais e operadores lógicos
 
 ## Lista de Exercícios 02
 

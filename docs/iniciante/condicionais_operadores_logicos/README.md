@@ -61,7 +61,7 @@ Condicionais e Operadores Lógicos
 
 <div markdown=1>
 
-- [Editorial Semana 02 - Condicionais e operadores lógicos](editorial/README.md)
+- [Editorial Semana 03 - Condicionais e operadores lógicos](editorial/README.md)
     
 
 </div>

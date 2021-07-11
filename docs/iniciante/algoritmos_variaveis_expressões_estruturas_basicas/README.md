@@ -67,7 +67,7 @@ Algoritmos, variáveis, expressões e estruturas básicas
 
 <div markdown=1>
 
-- [Editorial Semana 01 - Algoritmos, variáveis, expressões e estruturas básicas](editorial/README.md)
+- [Editorial Semana 02 - Algoritmos, variáveis, expressões e estruturas básicas](editorial/README.md)
 
 </div>
 </details>

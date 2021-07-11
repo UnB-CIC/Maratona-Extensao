@@ -1,4 +1,4 @@
-## Editorial Semana 01 - Algoritmos, variáveis, expressões e estruturas básicas
+## Editorial Semana 02 - Algoritmos, variáveis, expressões e estruturas básicas
 
 ## Lista de Exercícios 01
 

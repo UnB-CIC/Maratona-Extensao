@@ -736,7 +736,7 @@ int main(){
 <details>
     <summary>Fizz Buzz</summary>
 
-- Escreva um programa que mostre os números de 0 a 100 e coloque Fizz nos números múltiplos de 3 e Buzz nos múltiplos de 5, caso ambos ocorram mostre FizzBuzz.
+Escreva um programa que mostre os números de 0 a 100 e coloque Fizz nos números múltiplos de 3 e Buzz nos múltiplos de 5, caso ambos ocorram mostre FizzBuzz.
 
 <div markdown=1>
 
