@@ -1,4 +1,4 @@
-## Editorial Semana 06 - Condicionais e operadores lógicos
+## Editorial Semana 06 - Iteração
 
 ## Lista de Exercícios 03
 
