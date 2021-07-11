@@ -51,7 +51,7 @@ cout << v[1] << " "; // acessando o elemento 0 do vetor, exibimos na tela o núm
 cout << v[2] << endl; // acessando o elemento 0 do vetor, exibimos na tela o número 3
 ```
 
-Para facilitar, podemos exibir todos os elementos de um vetor na tela usamos um laço *for*. Utilizamos a função ```size()``` como condição de parada do *for*.
+Para facilitar, podemos exibir todos os elementos de um vetor na tela usando um laço *for*. Utilizamos a função ```size()``` como condição de parada do *for*.
 
 
 ```cpp

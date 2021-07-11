@@ -57,3 +57,13 @@ Iteração
 
 </div>
 </details>
+
+<details>
+    <summary>Editorial</summary>
+
+<div markdown=1>
+
+- [Editorial Semana 06 - Iteração](editorial/README.md)
+    
+</div>
+</details>
