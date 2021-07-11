@@ -72,9 +72,9 @@ for (int i = 0; i < v.size(); i++)
 cout << endl;
 
 ``` 
-Para vizualização declaramos um vetor de 10 posições ```v[10]``` e rodamos um laço *for* para exibir na tela cada elemento do vetor
+Para vizualização declaramos um vetor de 10 posições ```v[10]``` e rodamos um laço *for* para exibir na tela cada elemento do vetor. Para execução do código clique no link abaixo e clique no botão ```next``` para ir passo a passo no código.
 
-<iframe width="800" height="500" frameborder="0" src="http://pythontutor.com/iframe-embed.html#code=%23include%20%3Cbits/stdc%2B%2B.h%3E%0A%0Ausing%20namespace%20std%3B%0A%0Aint%20main%28%29%0A%7B%0A%20%20int%20v%5B10%5D%20%3D%20%7B1,%202,%203,%204,%205,%206,%207,%208,%209,%2010%7D%3B%20//inicializando%20um%20vetor%20com%2010%20inteiros%0A%20%20for%20%28int%20i%20%3D%200%3B%20i%20%3C%2010%3B%20i%2B%2B%29%0A%20%20%20%20%20%20cout%20%3C%3C%20v%5Bi%5D%20%3C%3C%20%22%20%22%3B%0A%20%20cout%20%3C%3C%20endl%3B%0A%20%20return%200%3B%0A%7D&codeDivHeight=400&codeDivWidth=350&cumulative=false&curInstr=0&heapPrimitives=nevernest&origin=opt-frontend.js&py=cpp_g%2B%2B9.3.0&rawInputLstJSON=%5B%5D&textReferences=false"> </iframe>
+[💻 Código 01](http://www.pythontutor.com/visualize.html#code=%23include%20%3Cbits/stdc%2B%2B.h%3E%0A%0Ausing%20namespace%20std%3B%0A%0Aint%20main%28%29%0A%7B%0A%20%20int%20v%5B10%5D%20%3D%20%7B1,%202,%203,%204,%205,%206,%207,%208,%209,%2010%7D%3B%20//inicializando%20um%20vetor%20com%2010%20inteiros%0A%20%20for%20%28int%20i%20%3D%200%3B%20i%20%3C%2010%3B%20i%2B%2B%29%0A%20%20%20%20%20%20cout%20%3C%3C%20v%5Bi%5D%20%3C%3C%20%22%20%22%3B%0A%20%20cout%20%3C%3C%20endl%3B%0A%20%20return%200%3B%0A%7D&cumulative=false&curInstr=6&heapPrimitives=nevernest&mode=display&origin=opt-frontend.js&py=cpp_g%2B%2B9.3.0&rawInputLstJSON=%5B%5D&textReferences=false")
 
 ## Swap
 
