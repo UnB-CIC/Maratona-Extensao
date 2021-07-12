@@ -35,8 +35,8 @@ vector<double> c(3, 3.1415); // inicializamos o vetor com 3 posições todas val
 Podemos ler um vetor do usuario com o ```cin``` ou o ```scanf``` da seguinte forma:
 
 ```cpp
-n = 6;
-vector<int> v(6); 
+int n = 6;
+vector<int> v(n); 
 // inicializamos o vetor com 6 posições todas valendo 0
 
 //lendo com scanf
@@ -70,7 +70,6 @@ vector<int> v = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}; //inicializando um vetor com 10
 for (int i = 0; i < v.size(); i++)
     cout << v[i] << " ";
 cout << endl;
-
 ``` 
 Para vizualização declaramos um vetor de 10 posições ```v[10]``` e rodamos um laço *for* para exibir na tela cada elemento do vetor. Para execução do código clique no link abaixo e clique no botão ```next``` para ir passo a passo no código.
 

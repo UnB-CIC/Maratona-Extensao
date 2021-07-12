@@ -18,5 +18,6 @@ Caso tenha interesse em assistir as aulas então siga, preferencialmente, a orde
     - [Iteração](iteração/README.md)
 2. Tópico 2
     - [String](string/README.md)
+    - [Aula 06 - Resolução de Exercícios (String e Iteração) - 10/07/2021](aula_06_resolução_de_exercicios_string_e_iteração/README.md)
     - [Vetores](vetores/README.md)
     - Matrizes
