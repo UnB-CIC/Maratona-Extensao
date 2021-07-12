@@ -14,10 +14,15 @@ Caso tenha interesse em assistir as aulas então siga, preferencialmente, a orde
     - [Apresentação](introdução/README.md)
     - [Algoritmos, variáveis, expressões, estruturas básicas](algoritmos_variaveis_expressões_estruturas_basicas/README.md)
     - [Condicionais, operadores lógicos](condicionais_operadores_logicos/README.md)
-    - [Contest 01](contest01/README.md)
     - [Iteração](iteração/README.md)
 2. Tópico 2
     - [String](string/README.md)
-    - [Aula 06 - Resolução de Exercícios (String e Iteração) - 10/07/2021](aula_06_resolução_de_exercicios_string_e_iteração/README.md)
     - [Vetores](vetores/README.md)
     - Matrizes
+
+## Contests
+
+- [Contest 01 - 19/06/2021](contest01/README.md)
+
+## Aula de Dúvidas e Resolução de Exercícios
+- [Dúvidas e Resolução de Exercícios (String e Iteração) - 10/07/2021](dúvidas_e_resolução_de_exercicios_string_e_iteração/README.md)

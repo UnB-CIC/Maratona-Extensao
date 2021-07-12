@@ -1,4 +1,4 @@
-Aula 06 - Resolução de Exercícios (String e Iteração) - 10/07/2021
+Dúvidas e Resolução de Exercícios (String e Iteração) - 10/07/2021
 ====================================
 
 ## Videoaula
@@ -15,6 +15,7 @@ Aula 06 - Resolução de Exercícios (String e Iteração) - 10/07/2021
 
 ## Links
 
-- [Iteração](../iteração/README.md)
-- [Strings](../string/README.md)
+- [Material Sobre Iteração](../iteração/README.md)
+- [Material Sobre Strings](../string/README.md)
+- [Material Extra Sobre Strings](../string/extra/README.md)
   
