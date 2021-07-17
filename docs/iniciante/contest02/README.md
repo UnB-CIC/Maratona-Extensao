@@ -51,10 +51,10 @@ int main(){
 
 <details>
     <summary>URI 1794 - Lavanderia </summary>
+<div markdown=1>
 
     CONTEST OFICIAL DE AQUECIMENTO DA OLIMPÍADA BRASILEIRA DE INFORMÁTICA 2015
 
-<div markdown=1>
 
 ```cpp
 #include <bits/stdc++.h>
