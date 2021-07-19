@@ -27,7 +27,12 @@ Caso tenha interesse em assistir as videoaulas então siga, preferencialmente, a
    - Controle de Fluxo
    - Funções
    - Estruturas de Dados Básicas
-
+1. [Estrutura de dados](estrutura-dados/README.md)
+   - Pilha
+   - Fila
+   - Fila de prioridade
+   - Map
+   - Set
 
 
 
