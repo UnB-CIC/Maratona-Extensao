@@ -560,7 +560,7 @@ string remove_middle_spaces(string s) {
  
 int main() {
      
-    short n;
+    int n;
     char c, a = '\0';
     bool primeiro = true;
      
