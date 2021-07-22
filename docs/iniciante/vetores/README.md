@@ -50,5 +50,5 @@ Em breve!
 - Exercícios Extras
     - Em breve!
 - Desafio
-    - Em breve!
+    [URI 2709 - As Moedas de Robbie](https://www.urionlinejudge.com.br/judge/pt/problems/view/2709)
 
