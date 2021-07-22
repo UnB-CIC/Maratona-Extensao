@@ -53,3 +53,15 @@ Strings
 - Desafio
     - [[URI 1278] Justificador II](https://www.urionlinejudge.com.br/judge/pt/problems/view/1278)
 
+</div>
+</details>
+
+<details>
+    <summary>Editorial</summary>
+
+<div markdown=1>
+
+- [Editorial Semana 07 - Strings](editorial/README.md)
+    
+</div>
+</details>
