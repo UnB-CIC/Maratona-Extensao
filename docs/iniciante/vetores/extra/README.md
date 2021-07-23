@@ -105,6 +105,46 @@ swap(v[0], v[1]);
 cout << v[0] << " " << v[1] << endl;
 ```
 
+## Ordenando um vetor 
+
+#### Em ordem crescente
+
+```cpp 
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+    vector<int> v = {5, 4, 3, 2, 1};
+    sort(v.begin(), v.end());
+
+    for (int i = 0; i < v.size(); i++)
+        cout << v[i] << " ";
+
+    return 0;
+}
+```
+
+#### Em ordem decrescente
+
+```cpp
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+    vector<int> v = {1, 2, 3, 4, 5};
+    sort(v.begin(), v.end(), greater<int>());
+
+    for (int i = 0; i < v.size(); i++)
+        cout << v[i] << " ";
+
+    return 0;
+}
+```
+
 ## Métodos úteis da classe vector
 
 ```size()``` Retorna o número de elementos no vetor.

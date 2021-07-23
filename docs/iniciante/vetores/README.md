@@ -48,7 +48,7 @@ Em breve!
   - ID da disciplina: 7550
   - Chave: XMGN22y
 - Exercícios Extras
-    - Em breve!
+    - [URI 2663 - Fase](https://www.urionlinejudge.com.br/judge/pt/problems/view/2663)
 - Desafio
     - [URI 2709 - As Moedas de Robbie](https://www.urionlinejudge.com.br/judge/pt/problems/view/2709)
 
