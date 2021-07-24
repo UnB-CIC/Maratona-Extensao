@@ -6,12 +6,12 @@ Estrutura de dados 1 e 2
 <details>
     <summary>Aula 4</summary>
 
-<iframe width="672" height="378" src="https://youtu.be/BGNCIUgQmN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></details>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BGNCIUgQmN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></details>
 
 <details>
     <summary>Aula 5</summary>
 
-<iframe width="672" height="378" src="https://youtu.be/wDZVvZpi1ak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></details>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wDZVvZpi1ak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></details>
 
 ## Slides
 
@@ -32,7 +32,7 @@ Estrutura de dados 1 e 2
 - [Repositório do Prof. Edson Alves](https://github.com/edsomjr/TEP/tree/master/Estruturas_de_Dados)
 - [CP-Algorithms Brasil](https://cp-algorithms-brasil.com/)
 - [cppreference](https://en.cppreference.com)
-    
+
 </div>
 </details>
 
