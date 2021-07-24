@@ -16,23 +16,27 @@ Caso tenha interesse em assistir as videoaulas então siga, preferencialmente, a
    - Apresentação
    - Palestra Motivacional
    - Juízes Automáticos
-1. [Complexidade de Algoritmos](complexidade/README.md)
+2. [Complexidade de Algoritmos](complexidade/README.md)
    - Introdução
    - Complexidade de tempo
    - Complexidade de memória
-1. [Fundamentos da Linguagem C++](fundamentos-c++/README.md)
+3. [Fundamentos da Linguagem C++](fundamentos-c++/README.md)
    - Visão Geral
    - Tipos de Dados
    - Leitura e Escrita de Dados
    - Controle de Fluxo
    - Funções
    - Estruturas de Dados Básicas
-1. [Estrutura de dados](estrutura-dados/README.md)
+4. [Estrutura de dados](estrutura-dados/README.md)
    - Pilha
    - Fila
    - Fila de prioridade
    - Map
    - Set
+5. [Busca Binária](busca-binaria/README.md)
+   - Introdução
+   - Aplicações para o algoritmo de Busca Binária
+   - Busca Binária na resposta
 
 
 
