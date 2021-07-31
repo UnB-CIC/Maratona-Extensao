@@ -3,7 +3,7 @@
 ## Editorial
 
 <details>
-    <summary> URI 1367 - Ajude </summary>
+    <summary> URI 1367 - Ajude! </summary>
 <div markdown=1>
 
     Maratona de Programacao da SBC, Warm-Up 
@@ -43,6 +43,57 @@ int main(){
     }
 
     return 0;    
+}
+``` 
+
+</div>
+</details>
+
+<details>
+    <summary> URI 1367 - Ajude! (Resolução usando matriz) </summary>
+<div markdown=1>
+
+    Maratona de Programacao da SBC, Warm-Up 
+
+```cpp
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main()
+{
+    int n;
+
+    cin >> n;
+
+    while (n != 0)
+    {
+        vector<vector<int>> matriz(26, vector<int>(2));
+        char id;
+        int t, acertos = 0, tempo = 0;
+        string s;
+        for (int i = 0; i < n; i++)
+        {
+            cin >> id >> t >> s;
+
+            if (s == "correct" and matriz[id - 'A'][0] == 0)
+                matriz[id - 'A'][0] = t;
+            if (s == "incorrect" and matriz[id - 'A'][0] == 0)
+                matriz[id - 'A'][1] += 20;
+        }
+        for (int i = 0; i < 26; i++)
+        {
+            if (matriz[i][0] != 0)
+            {
+                acertos++;
+                tempo += matriz[i][0] + matriz[i][1];
+            }
+        }
+        cout << acertos << " " << tempo << endl;
+        cin >> n;
+    }
+
+    return 0;
 }
 ``` 
 
