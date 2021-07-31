@@ -18,7 +18,7 @@ Caso tenha interesse em assistir as aulas então siga, preferencialmente, a orde
 2. Tópico 2
     - [String](string/README.md)
     - [Vetores](vetores/README.md)
-    - Matrizes
+    - [Matrizes](matrizes/README.md)
 
 ## Contests
 
