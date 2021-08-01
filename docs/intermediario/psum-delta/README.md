@@ -36,7 +36,8 @@ Soma de Prefixos e Codificação Delta
 
 <div markdown=1>
 
-- [Grupo da UnBalloon no Codeforces](https://github.com/UnBalloon/programacao-competitiva/tree/master/Busca%20Bin%C3%A1ria)
+- [Grupo da UnBalloon no Codeforces](https://codeforces.com/group/nituVTsHQX/contests)
+- [Página da UnBalloon no Github](https://github.com/UnBalloon/programacao-competitiva)
 
 </div>
 </details>
