@@ -24,8 +24,8 @@ Soma de Prefixos e Codificação Delta
 
 <div markdown=1>
 
-- [Karen and Coffe](https://codeforces.com/contest/816/problem/B)([_Resolução_](code/816b.cpp))
-- [Count Triangles](https://codeforces.com/contest/1355/problem/C)([_Resolução_](code/1355c.cpp))
+- [Karen and Coffe ](https://codeforces.com/contest/816/problem/B)([_Resolução_](code/816b.cpp))
+- [Count Triangles ](https://codeforces.com/contest/1355/problem/C)([_Resolução_](code/1355c.cpp))
  
 </div>
 
