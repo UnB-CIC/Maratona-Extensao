@@ -37,6 +37,11 @@ Caso tenha interesse em assistir as videoaulas então siga, preferencialmente, a
    - Introdução
    - Aplicações para o algoritmo de Busca Binária
    - Busca Binária na resposta
+6. [Soma de Prefixos e Codificação Delta](psum-delta/README.md)
+   - Motivação
+   - Soma de Prefixos
+   - Codificação Delta
+   - Exercícios
 
 
 
