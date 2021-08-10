@@ -28,3 +28,4 @@ Caso tenha interesse em assistir as aulas então siga, preferencialmente, a orde
 
 ## Aulas de Dúvidas e Resolução de Exercícios
 - [Dúvidas e Resolução de Exercícios (String e Iteração) - 10/07/2021](dúvidas_e_resolução_de_exercicios_string_e_iteração/README.md)
+- [Dúvidas e Resolução de Exercícios (Matrizes) - 07/08/2021](dúvidas_e_resolução_de_exercicios_matrizes/README.md)
