@@ -18,7 +18,7 @@ Estrutura de dados 1 e 2
 <details>
     <summary>Slides da aula 5</summary>
 
-<iframe src="https://docs.google.com/presentation/d/1_zT6sv_HD3a3N-mTn1B4ki7g8-vLJKP-tbBzwASMPXM/edit?usp=sharing" frameborder="0" width="672" height="378" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1_zT6sv_HD3a3N-mTn1B4ki7g8-vLJKP-tbBzwASMPXM/embed?start=false&loop=false&delayms=60000" frameborder="0" width="672" height="378" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 </details>
 
