@@ -42,7 +42,8 @@ Caso tenha interesse em assistir as videoaulas então siga, preferencialmente, a
    - Soma de Prefixos
    - Codificação Delta
    - Exercícios
-
-
-
-
+7. [Conjuntos e Exponenciação Rápida](conjuntos-e-fexp/README.md)
+   - Set
+   - Multiset
+   - Bitset
+   - Exponenciação rápida
