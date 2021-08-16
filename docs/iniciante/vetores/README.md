@@ -52,3 +52,16 @@ Vetores
 - Desafio
     - [URI 2709 - As Moedas de Robbie](https://www.urionlinejudge.com.br/judge/pt/problems/view/2709)
 
+
+</div>
+</details>
+
+<details>
+    <summary>Editorial</summary>
+
+<div markdown=1>
+
+- [Editorial Semana 08 - Vetores](editorial/README.md)
+    
+</div>
+</details>
