@@ -19,6 +19,10 @@ Caso tenha interesse em assistir as aulas então siga, preferencialmente, a orde
     - [String](string/README.md)
     - [Vetores](vetores/README.md)
     - [Matrizes](matrizes/README.md)
+3. Tópico 3
+    - [Funções](funções/README.md)
+    - Recursividade
+
 
 ## Contests
 

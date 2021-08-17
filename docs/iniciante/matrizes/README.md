@@ -31,7 +31,7 @@ Matrizes
 
 <div markdown=1>
 
-- Matrizes - Material Extra - Em breve!
+- [Documentação de Matrizes](https://docs.microsoft.com/pt-br/cpp/cpp/arrays-cpp?view=msvc-160)
 
 </div>
 </details>
