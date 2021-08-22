@@ -47,3 +47,8 @@ Caso tenha interesse em assistir as videoaulas então siga, preferencialmente, a
    - Multiset
    - Bitset
    - Exponenciação rápida
+8. [Divisibilidade](divisibilidade/README.md)
+   - Divisibilidade
+   - Divisão de Euclides
+   - MDC
+   - MMC
