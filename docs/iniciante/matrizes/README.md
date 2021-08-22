@@ -50,3 +50,5 @@ Matrizes
 - Desafio
     - [URI 2542 - lu-Di-Oh!](https://www.urionlinejudge.com.br/judge/pt/problems/view/2542)
 
+- [Editorial Semana 09 - Matrizes](editorial/README.md)
+</div>
