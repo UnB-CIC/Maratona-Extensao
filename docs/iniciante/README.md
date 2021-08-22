@@ -28,6 +28,7 @@ Caso tenha interesse em assistir as aulas então siga, preferencialmente, a orde
 
 - [Contest 01 - 19/06/2021](contest01/README.md)
 - [Contest 02 - 17/07/2021](contest02/README.md)
+- [Contest 03 - 14/08/2021](contest03/README.md)
 
 
 ## Aulas de Dúvidas e Resolução de Exercícios
