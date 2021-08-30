@@ -6,7 +6,7 @@ Funções
 <details>
     <summary>Video aula</summary>
 
-Em breve
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BnUBdSDHM9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </details>
 
@@ -46,10 +46,6 @@ Em breve
   - Acessem o [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login) e entrem na disciplina GE Iniciante.
   - ID da disciplina: 7550
   - Chave: XMGN22y
-- Exercícios Extras
-    - Em breve
-- Desafio
-    - Em breve
 
 </div>
 </details>
