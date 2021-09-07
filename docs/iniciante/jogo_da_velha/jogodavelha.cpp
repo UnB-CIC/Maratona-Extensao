@@ -29,19 +29,19 @@ void desenhaTabuleiro(){
 }
 
 int jogada(int posicao){
-    // Fução que atualiza o tabuleiro dada uma jogada
+    // Funcao que atualiza o tabuleiro dada uma jogada
 
     // Para atualizar o tabuleiro temos que ter as coordenadas de linha e coluna
-    int linha = posicao / 3; // a linha sera a posição dada dividida por 3 
+    int linha = posicao / 3; // a linha sera a posicao dada dividida por 3 
     int coluna;
    
     /*
         temos que verificar se a posicao eh um multiplo de 3
         se for diminuimos a linha em 1, pois por exemplo:
-        queremos jogar na posição 6
+        queremos jogar na posicao 6
         6 / 3 = 2 , então nossa linha eh 2 mas temos que verificar
         se 6 % 3 == 0, logo diminuimos uma unidade da linha, por que
-        nossa matriz tabuleiro começa da posicao 0.
+        nossa matriz tabuleiro comeca da posicao 0.
         e a coluna sempre vai ser 2 pois na coluna 2 temos 3,6,9 todos
         multiplos de 3
     */
