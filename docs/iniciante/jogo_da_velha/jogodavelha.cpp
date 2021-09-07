@@ -3,7 +3,7 @@ using namespace std;
 
 /*
 #####################
-# Variáveis globais #
+# Variaveis globais #
 #####################
 */
 
@@ -13,12 +13,12 @@ int jogadorAtual = 0;
 
 /*
 ###########
-# Funções #
+# Funcoes #
 ###########
 */
 
 void desenhaTabuleiro(){
-    //função responsável por desenhar o tabuleiro na tela
+    //funcao responsavel por desenhar o tabuleiro na tela
     for (int i = 0; i < 3; i++){
         cout << "\t\t\t";
         for (int j = 0; j < 3; j++){
@@ -32,25 +32,25 @@ int jogada(int posicao){
     // Fução que atualiza o tabuleiro dada uma jogada
 
     // Para atualizar o tabuleiro temos que ter as coordenadas de linha e coluna
-    int linha = posicao / 3; // a linha será a posição dada dividida por 3 
+    int linha = posicao / 3; // a linha sera a posição dada dividida por 3 
     int coluna;
    
     /*
-        temos que verificar se a posição é um multiplo de 3
+        temos que verificar se a posicao eh um multiplo de 3
         se for diminuimos a linha em 1, pois por exemplo:
         queremos jogar na posição 6
-        6 / 3 = 2 , então nossa linha é 2 mas temos que verificar
+        6 / 3 = 2 , então nossa linha eh 2 mas temos que verificar
         se 6 % 3 == 0, logo diminuimos uma unidade da linha, por que
-        nossa matriz tabuleiro começa da posição 0.
+        nossa matriz tabuleiro começa da posicao 0.
         e a coluna sempre vai ser 2 pois na coluna 2 temos 3,6,9 todos
-        múltiplos de 3
+        multiplos de 3
     */
     if (posicao % 3 == 0){
         linha -= 1;
         coluna = 2;
     } else {
         /*
-            se nao for múltiplo de 3, pegamos o resto da divisão da posição
+            se nao for multiplo de 3, pegamos o resto da divisao da posicao
             por 3 e diminuimos 1 unidade
         */
         coluna = (posicao % 3) - 1;
@@ -80,7 +80,7 @@ int checarGanhador(){
     if (tabuleiro[0][2] == tabuleiro[1][1] && tabuleiro[1][1] == tabuleiro[2][0]) 
         return jogadorAtual;
 
-    //checamos se o jogo está empatado
+    //checamos se o jogo esta empatado
     for (int i = 0; i < 3; i++){
         for (int j = 0; j < 3; j++){
             if (tabuleiro[i][j] != 'O' && tabuleiro[i][j] != 'X'){
