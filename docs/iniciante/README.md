@@ -21,7 +21,7 @@ Caso tenha interesse em assistir as aulas então siga, preferencialmente, a orde
     - [Matrizes](matrizes/README.md)
 3. Tópico 3
     - [Funções](funções/README.md)
-    - Recursividade
+    - [Recursividade](recursividade/README.md)
 
 
 ## Contests
