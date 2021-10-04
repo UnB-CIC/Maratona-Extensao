@@ -7,6 +7,8 @@ Funções
     <summary>Video aula</summary>
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=BnUBdSDHM9M&t=11s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BnUBdSDHM9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 </details>
 
