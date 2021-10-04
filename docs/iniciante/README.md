@@ -41,4 +41,4 @@ Caso tenha interesse em assistir as aulas então siga, preferencialmente, a orde
 - [Dúvidas e Resolução de Exercícios (Matrizes) - 07/08/2021](dúvidas_e_resolução_de_exercicios_matrizes/README.md)
 - [Resolução de Exercícios do Contest 03 - 21/08/2021](contest03/README.md)
 - [Dúvidas, Resolução de Exercícios (Funções Recursivas) e Ponteiros - 25/09/2021](recursividade/README.md)
-- [Criação do Jogo da Velha - 04/09/2021](JogoDaVelha/README.md)
+- [Criação do Jogo da Velha - 04/09/2021](jogo_da_velha/README.md)
