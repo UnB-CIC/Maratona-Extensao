@@ -10,8 +10,12 @@ Recursividade
 
 </details>
 
-</details>
+<details>
+    <summary>Resolvendo Exercícios da Lista de Recursividade e Ponteiros</summary>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GpH68I7Ja4Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</details>
 
 - O que é Recursão?
 - Estrutura de funções recursivas
