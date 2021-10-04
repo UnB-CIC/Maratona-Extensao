@@ -3,6 +3,13 @@
 ## Editorial
 
 <details>
+    <summary>Video aula Resolvendo as Questões do Contest</summary>
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=HQZDunD-ga4&t=1365s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</details>
+
+<details>
     <summary> URI 1087 - Dama </summary>
 <div markdown=1>
 
@@ -349,4 +356,4 @@ int main() {
 
 ## Lista de Exercícios com as Questões do Contest
 
-- A lista de exercícios com as questões do contest já está disponível na plataforma URI Online Judge, para que você possam submeter soluções depois da realização da maratona!
+- A lista de exercícios com as questões do contest já está disponível na plataforma URI Online Judge, para que vocês possam submeter soluções depois da realização da maratona!

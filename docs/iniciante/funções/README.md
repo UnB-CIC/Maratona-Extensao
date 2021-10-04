@@ -6,7 +6,9 @@ Funções
 <details>
     <summary>Video aula</summary>
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=BnUBdSDHM9M&t=11s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BnUBdSDHM9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 </details>
 
@@ -46,6 +48,8 @@ Funções
   - Acessem o [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login) e entrem na disciplina GE Iniciante.
   - ID da disciplina: 7550
   - Chave: XMGN22y
+
+- [Editorial Semana 10 - Funções](editorial/README.md)
 
 </div>
 </details>
