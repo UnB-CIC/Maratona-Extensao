@@ -12,6 +12,13 @@ Jogo da Velha - 04/09/2021
 
 - Implementação do Jogo da Velha em C++
 
+<details>
+    <summary>Slides</summary>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT9iBI2wsksaMrbB34skzfMowuwH2PtR7XMjsUncr2wpFqKdZ7ERBRx8Q3B9BsgAH_PzaDZCXTKIUdm/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+</details>
+
 # Código
 
 [Jogo da Velha](jogodavelha.cpp)
