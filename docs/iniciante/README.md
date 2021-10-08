@@ -23,9 +23,9 @@ Caso tenha interesse em assistir as aulas então siga, preferencialmente, a orde
     - [Funções](funções/README.md)
     - [Recursividade](recursividade/README.md)
 4. Tópico 4
-    - [Estruturas de Dados](eds/README.md)
-    - [Ordenação e Busca](ordenacaoEBusca/README.md)
-    - [Análise de Algoritmos](complexidades/README.md)
+    - [Estruturas de Dados](estrutura_de_dados/README.md)
+    - Ordenação e Busca
+    - Análise de Algoritmos
 
 
 ## Contests
