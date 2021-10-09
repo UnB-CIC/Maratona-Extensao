@@ -52,3 +52,6 @@ Caso tenha interesse em assistir as videoaulas então siga, preferencialmente, a
    - Divisão de Euclides
    - MDC
    - MMC
+9. [Caminhos mínimos](dijkstra/README.md)
+   - BFS
+   - Dijkstra
