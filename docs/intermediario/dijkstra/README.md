@@ -14,7 +14,7 @@ Dijkstra
 <details>
     <summary>Slides da aula</summary>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSkOb-Rx_iiiygXi-CfkCD99RfQ7w-Yal0AQl-A7LgdQpHrwdDAVzSdKX2IIUOmA74nedRu147Hv_xI/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSkOb-Rx_iiiygXi-CfkCD99RfQ7w-Yal0AQl-A7LgdQpHrwdDAVzSdKX2IIUOmA74nedRu147Hv_xI/embed?start=false&loop=false&delayms=60000" frameborder="0" width="560" height="315" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 </details>
 
