@@ -66,20 +66,32 @@ int main(){
 
 ```cpp
 #include <bits/stdc++.h>
+using namespace std;
 
-int main(){
-    long long int m, n, fm, fn;
-    while(scanf("%lld %lld", &m, &n)!=EOF){
-        fm=1;
-        fn=1;
-        for(int i=m;i>0;i--){
-            fm*=i;
-        }
-        for(int i=n;i>0;i--){
-            fn*=i;
-        }
-        printf("%lld\n", fm+fn);
+#define ll long long
+
+ll fatorial(ll x){
+
+    if(x == 0){
+        return 1;
     }
+
+    return fatorial(x-1)*x;
+
+}
+
+int main() {
+    
+    ll n, m;
+
+    while(cin >> n >> m){
+
+        ll res = fatorial(n) + fatorial(m);
+        cout << res << endl;
+
+    }
+   
+    return 0;
 }
 ``` 
 
