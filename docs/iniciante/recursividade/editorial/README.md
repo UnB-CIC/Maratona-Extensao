@@ -13,17 +13,23 @@
 
 using namespace std;
 
-int main() {
-    int n, a, b;
-    cin >> n;
+int mdc (int x, int y){
+    if (y==0) return x;
+    return mdc (y, x % y);
+}
+
+int main(){
+
+    int n, i;
+    scanf ("%d", &n);
     
-    while(n--){
-        cin >> a >> b;
-        
-        cout << __gcd(a, b) << endl;
+    for (i = 0; i < n; i++) {
+        int x;
+        int y;
+        scanf ("%d", &y);
+        scanf ("%d", &x);
+        printf ("%d\n", mdc(x,y));
     }
-    
-    return 0;
 }
 ``` 
 
