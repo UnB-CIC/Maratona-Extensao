@@ -9,27 +9,42 @@
 
 ```cpp
 #include <bits/stdc++.h>
-#include <algorithm>
-
 using namespace std;
 
-int mdc (int x, int y){
+int mdc(int x, int y){
     if (y==0) return x;
-    return mdc (y, x % y);
+    return mdc (y, x % y);  
 }
 
-int main(){
+int mdc1(int x, int y){
+    int resto;
 
-    int n, i;
-    scanf ("%d", &n);
+    do{
+        resto = x % y;
+
+        x = y;
+        y = resto;
+
+    } while (resto != 0);
+
+    return x;
+}
+
+int main() {
     
-    for (i = 0; i < n; i++) {
-        int x;
-        int y;
-        scanf ("%d", &y);
-        scanf ("%d", &x);
-        printf ("%d\n", mdc(x,y));
+    int n;
+    cin >> n;
+
+    while(n--){
+        int f1, f2;
+        cin >> f1 >> f2;
+
+        // cout << __gcd(f1, f2) << endl;
+        // cout << mdc1(f1, f2) << endl;
+        cout << mdc(f1, f2) << endl;
     }
+        
+    return 0;
 }
 ``` 
 
