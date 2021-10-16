@@ -8,63 +8,39 @@
 
 
 ```cpp
-#include <iostream>
-#include <string>
-
+#include <bits/stdc++.h>
 using namespace std;
 
-int main(){
-    int i, di, hi, mi, si, df, hf, mf, sf, st;
-    string s, ditxt="";
-    getline(cin, s);
-    for(i=4;i<s.size();i++){
-        ditxt+=s[i];
-    }
-    di=stoi(ditxt);
+int main() {
     
-    getline(cin, s);
-    ditxt="";
-    ditxt+=s[0];
-    ditxt+=s[1];
-    hi=stoi(ditxt);
-    
-    ditxt="";
-    ditxt+=s[5];
-    ditxt+=s[6];
-    mi=stoi(ditxt);
+    string aux;
+    int diainicial, diafinal;
+    int horainicial, horafinal;
+    int minutoinicial, minutofinal;
+    int segundoinicial, segundofinal;
 
-    ditxt="";
-    ditxt+=s[10];
-    ditxt+=s[11];
-    si=stoi(ditxt);
-    
-    getline(cin, s);
-    ditxt="";
-    for(i=4;i<s.size();i++){
-        ditxt+=s[i];
-    }
-    df=stoi(ditxt);
+    cin >> aux; // Dia
+    cin >> diainicial; // x
+    scanf("%d : %d : %d", &horainicial, &minutoinicial, &segundoinicial);
 
-    getline(cin, s);
-    ditxt="";
-    ditxt+=s[0];
-    ditxt+=s[1];
-    hf=stoi(ditxt);
-    
-    ditxt="";
-    ditxt+=s[5];
-    ditxt+=s[6];
-    mf=stoi(ditxt);
+    cin >> aux;
+    cin >> diafinal;
+    scanf("%d : %d : %d", &horafinal, &minutofinal, &segundofinal);
 
-    ditxt="";
-    ditxt+=s[10];
-    ditxt+=s[11];
-    sf=stoi(ditxt);
-
-    st=(sf-si)+(mf*60-mi*60)+(hf*3600-hi*3600)+(86400*df-86400*di);
+    int dia, hora, minuto, segundo;
+    int tudoprasegundoinicial, tudoprasegundofinal;
     
-    cout << st/86400 << " dia(s)" << endl << (st%86400)/3600 << " hora(s)" << endl;
-    cout << ((st%86400)%3600)/60 << " minuto(s)" << endl << (((st%86400)%3600)%60) << " segundo(s)" << endl;
+    // transforma td pra segundo
+    tudoprasegundoinicial = (diainicial * 86400) + (horainicial * 3600) + (minutoinicial * 60) + segundoinicial;
+    tudoprasegundofinal = (diafinal * 86400) + (horafinal * 3600) + (minutofinal * 60) + segundofinal;
+    int tempofinalemseg = tudoprasegundofinal - tudoprasegundoinicial;
+
+    
+    dia = tempofinalemseg / 86400;
+    hora = (tempofinalemseg%86400) / 3600;
+    minuto = (tempofinalemseg%3600)/60;
+    segundo = tempofinalemseg%60;
+    printf ("%d dia(s)\n%d hora(s)\n%d minuto(s)\n%d segundo(s)\n", dia,hora,minuto,segundo);
         
     return 0;
 }
