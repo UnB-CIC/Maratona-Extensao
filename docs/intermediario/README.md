@@ -52,6 +52,8 @@ Caso tenha interesse em assistir as videoaulas então siga, preferencialmente, a
    - Divisão de Euclides
    - MDC
    - MMC
-9. [Caminhos mínimos](dijkstra/README.md)
-   - BFS
-   - Dijkstra
+9. [Caminhos mínimos](caminhos_minimos/README.md)
+   1. BFS
+   2. Dijkstra
+   3. Floyd-Warshall
+   4. Bellman-Ford
